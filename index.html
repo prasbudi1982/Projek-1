@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nusantara Vault | Resep Mewah Masakan Indonesia</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Plus+Jakarta+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --gold: #C5A059;
+            --dark-bg: #0F1212;
+            --card-bg: #1A1E1E;
+        }
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--dark-bg);
+            color: #E2E8F0;
+        }
+        .font-playfair { font-family: 'Playfair Display', serif; }
+        
+        .gold-gradient {
+            background: linear-gradient(135deg, #C5A059 0%, #8E793E 100%);
+        }
+        
+        .glass {
+            background: rgba(26, 30, 30, 0.8);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(197, 160, 89, 0.2);
+        }
+
+        .recipe-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--gold);
+        }
+
+        /* Animasi */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade { animation: fadeIn 0.6s ease forwards; }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0F1212; }
+        ::-webkit-scrollbar-thumb { background: #C5A059; border-radius: 10px; }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="sticky top-0 z-50 glass border-b border-white/5 py-4">
+        <div class="container mx-auto px-6 flex justify-between items-center">
+            <div class="flex items-center gap-2">
+                <div class="p-2 gold-gradient rounded-lg">
+                    <i data-lucide="utensils" class="text-black"></i>
+                </div>
+                <h1 class="text-2xl font-playfair tracking-wider text-white">NUSANTARA<span class="text-[#C5A059]">VAULT</span></h1>
+            </div>
+            <div class="hidden md:flex gap-8 text-sm uppercase tracking-widest font-semibold">
+                <a href="#" class="hover:text-[#C5A059] transition">Beranda</a>
+                <a href="#" class="hover:text-[#C5A059] transition">Koleksi</a>
+                <a href="#" class="hover:text-[#C5A059] transition">Tentang</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="relative py-20 overflow-hidden">
+        <div class="absolute inset-0 z-0">
+            <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=2000" class="w-full h-full object-cover opacity-20" alt="Hero Background">
+            <div class="absolute inset-0 bg-gradient-to-t from-dark-bg via-transparent to-transparent"></div>
+        </div>
+        
+        <div class="container mx-auto px-6 relative z-10 text-center">
+            <h2 class="text-5xl md:text-7xl font-playfair text-white mb-6">Mahakarya Kuliner <br> <span class="text-[#C5A059]">Warisan Leluhur</span></h2>
+            <p class="max-w-2xl mx-auto text-gray-400 text-lg mb-10">Jelajahi teknik memasak otentik dan bumbu rahasia dari lima penjuru utama Kepulauan Nusantara.</p>
+            
+            <!-- Search -->
+            <div class="max-w-xl mx-auto relative">
+                <input type="text" id="searchInput" placeholder="Cari resep (Contoh: Rendang, Soto...)" 
+                    class="w-full bg-white/5 border border-white/10 rounded-full py-4 px-8 outline-none focus:border-[#C5A059] transition-all">
+                <button class="absolute right-3 top-2 gold-gradient p-2 rounded-full shadow-lg">
+                    <i data-lucide="search" class="text-black w-5 h-5"></i>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filter Daerah -->
+    <nav class="container mx-auto px-6 mb-12">
+        <div class="flex flex-wrap justify-center gap-4" id="regionFilters">
+            <button onclick="loadRegion('sumatra.json', this)" class="region-btn active px-8 py-3 rounded-full border border-[#C5A059] bg-[#C5A059] text-black font-bold transition-all">SUMATRA</button>
+            <button onclick="loadRegion('jawa.json', this)" class="region-btn px-8 py-3 rounded-full border border-white/10 hover:border-[#C5A059] transition-all">JAWA</button>
+            <button onclick="loadRegion('bali_nusa.json', this)" class="region-btn px-8 py-3 rounded-full border border-white/10 hover:border-[#C5A059] transition-all">BALI & NUSA</button>
+            <button onclick="loadRegion('sulawesi.json', this)" class="region-btn px-8 py-3 rounded-full border border-white/10 hover:border-[#C5A059] transition-all">SULAWESI</button>
+            <button onclick="loadRegion('papua_maluku.json', this)" class="region-btn px-8 py-3 rounded-full border border-white/10 hover:border-[#C5A059] transition-all">PAPUA & MALUKU</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 pb-20">
+        <div id="recipeGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+            <!-- Data dimasukkan via JS -->
+            <div class="col-span-full text-center py-20 opacity-50">
+                <p>Memuat resep pilihan...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal Detail Resep -->
+    <div id="recipeModal" class="fixed inset-0 z-[100] hidden overflow-y-auto pt-10 px-4 pb-20">
+        <div class="fixed inset-0 bg-black/90 transition-opacity" onclick="closeModal()"></div>
+        <div class="relative mx-auto max-w-4xl bg-[#1A1E1E] rounded-3xl overflow-hidden shadow-2xl border border-white/10">
+            <button onclick="closeModal()" class="absolute top-6 right-6 z-10 bg-black/50 p-2 rounded-full text-white hover:text-[#C5A059]">
+                <i data-lucide="x"></i>
+            </button>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <!-- Script Area -->
+    <script>
+        let currentRecipes = [];
+
+        // Inisialisasi Lucide Icons
+        lucide.createIcons();
+
+        // Load Default Region
+        window.onload = () => {
+            loadRegion('sumatra.json', document.querySelector('.region-btn'));
+        };
+
+        async function loadRegion(fileName, element) {
+            const grid = document.getElementById('recipeGrid');
+            
+            // UI Toggle
+            document.querySelectorAll('.region-btn').forEach(btn => {
+                btn.classList.remove('bg-[#C5A059]', 'text-black', 'font-bold');
+                btn.classList.add('border-white/10');
+            });
+            element.classList.add('bg-[#C5A059]', 'text-black', 'font-bold');
+
+            try {
+                const response = await fetch(fileName);
+                currentRecipes = await response.json();
+                displayRecipes(currentRecipes);
+            } catch (error) {
+                grid.innerHTML = `<div class="col-span-full text-center text-red-400">Gagal memuat database ${fileName}. Pastikan file tersedia.</div>`;
+            }
+        }
+
+        function displayRecipes(recipes) {
+            const grid = document.getElementById('recipeGrid');
+            grid.innerHTML = '';
+
+            recipes.forEach((recipe, index) => {
+                const card = document.createElement('div');
+                card.className = 'recipe-card glass rounded-3xl overflow-hidden transition-all duration-500 animate-fade cursor-pointer group';
+                card.style.animationDelay = `${index * 0.1}s`;
+                card.onclick = () => openModal(recipe);
+
+                card.innerHTML = `
+                    <div class="relative h-64 overflow-hidden">
+                        <img src="${recipe.image}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                        <div class="absolute top-4 left-4">
+                            <span class="bg-black/60 backdrop-blur-md text-[#C5A059] text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-tighter border border-[#C5A059]/30">
+                                ${recipe.difficulty}
+                            </span>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex justify-between items-start mb-2">
+                            <h3 class="text-xl font-playfair text-white group-hover:text-[#C5A059] transition">${recipe.name}</h3>
+                            <div class="flex items-center text-[#C5A059]">
+                                <i data-lucide="star" class="w-4 h-4 fill-current"></i>
+                                <span class="text-sm ml-1 font-bold">${recipe.rating}</span>
+                            </div>
+                        </div>
+                        <p class="text-gray-400 text-sm line-clamp-2 mb-4">${recipe.description}</p>
+                        <div class="flex justify-between items-center pt-4 border-t border-white/5 text-xs text-gray-500">
+                            <div class="flex items-center"><i data-lucide="clock" class="w-3 h-3 mr-1"></i> ${recipe.cookTime} mnt</div>
+                            <div class="flex items-center"><i data-lucide="users" class="w-3 h-3 mr-1"></i> ${recipe.servings} porsi</div>
+                            <div class="flex items-center text-[#C5A059] font-bold uppercase tracking-widest">Detail <i data-lucide="chevron-right" class="w-3 h-3 ml-1"></i></div>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+            lucide.createIcons();
+        }
+
+        function openModal(recipe) {
+            const modal = document.getElementById('recipeModal');
+            const content = document.getElementById('modalContent');
+            
+            content.innerHTML = `
+                <div class="grid grid-cols-1 md:grid-cols-2">
+                    <div class="h-[400px] md:h-full">
+                        <img src="${recipe.image}" class="w-full h-full object-cover">
+                    </div>
+                    <div class="p-8 md:p-12 overflow-y-auto">
+                        <div class="text-[#C5A059] font-bold text-sm tracking-widest mb-2">${recipe.province}</div>
+                        <h2 class="text-4xl font-playfair text-white mb-4">${recipe.name}</h2>
+                        
+                        <div class="flex gap-6 mb-8 py-4 border-y border-white/5">
+                            <div class="text-center">
+                                <div class="text-gray-500 text-[10px] uppercase">Waktu</div>
+                                <div class="text-white font-bold">${recipe.cookTime}m</div>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-gray-500 text-[10px] uppercase">Porsi</div>
+                                <div class="text-white font-bold">${recipe.servings}</div>
+                            </div>
+                            <div class="text-center">
+                                <div class="text-gray-500 text-[10px] uppercase">Kalori</div>
+                                <div class="text-white font-bold">${recipe.calories}</div>
+                            </div>
+                        </div>
+
+                        <h4 class="text-[#C5A059] font-bold mb-4 uppercase tracking-widest flex items-center">
+                            <i data-lucide="shopping-basket" class="mr-2 w-5 h-5"></i> Bahan Utama
+                        </h4>
+                        <ul class="space-y-3 mb-10 text-gray-300">
+                            ${recipe.ingredients.map(ing => `
+                                <li class="flex justify-between border-b border-white/5 pb-2">
+                                    <span>${ing.name}</span>
+                                    <span class="text-white font-semibold">${ing.amount} ${ing.unit}</span>
+                                </li>
+                            `).join('')}
+                        </ul>
+
+                        <h4 class="text-[#C5A059] font-bold mb-4 uppercase tracking-widest flex items-center">
+                            <i data-lucide="chef-hat" class="mr-2 w-5 h-5"></i> Langkah Pembuatan
+                        </h4>
+                        <div class="space-y-6">
+                            ${recipe.steps.map((step, i) => `
+                                <div class="flex gap-4">
+                                    <span class="flex-none w-8 h-8 rounded-full gold-gradient text-black flex items-center justify-center font-bold text-sm">${i+1}</span>
+                                    <p class="text-gray-400 text-sm leading-relaxed">${step}</p>
+                                </div>
+                            `).join('')}
+                        </div>
+
+                        <div class="mt-12 p-6 rounded-2xl bg-white/5 border border-[#C5A059]/20 italic text-sm text-gray-400">
+                            <span class="text-[#C5A059] font-bold not-italic block mb-1">TIPS KOKI:</span>
+                            "${recipe.tips}"
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+            lucide.createIcons();
+        }
+
+        function closeModal() {
+            document.getElementById('recipeModal').classList.add('hidden');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Search Functionality
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const val = e.target.value.toLowerCase();
+            const filtered = currentRecipes.filter(r => 
+                r.name.toLowerCase().includes(val) || 
+                r.description.toLowerCase().includes(val) ||
+                r.tags.some(tag => tag.toLowerCase().includes(val))
+            );
+            displayRecipes(filtered);
+        });
+    </script>
+</body>
+</html>
