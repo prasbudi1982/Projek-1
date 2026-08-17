@@ -1,0 +1,608 @@
+[
+  {
+    "id": "sul-1",
+    "name": "Coto Makassar Kuah Tajin",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Sup & Kuah",
+    "tags": ["Daging Sapi", "Kacang Tanah", "Air Tajin"],
+    "difficulty": "Sedang",
+    "cookTime": 90,
+    "prepTime": 25,
+    "servings": 6,
+    "calories": 510,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup daging sapi dengan air rebusan beras (tajin) dan kacang tanah sangrai kental beraroma jintan.",
+    "ingredients": [
+      { "name": "Daging sapi & jeroan (babat/jantung)", "amount": 750, "unit": "gram" },
+      { "name": "Air cucian beras putih (Tajin bersih)", "amount": 2000, "unit": "ml" },
+      { "name": "Kacang tanah sangrai (haluskan kental)", "amount": 150, "unit": "gram" },
+      { "name": "Bumbu halus (Bawang, ketumbar, jintan, serai, kemiri)", "amount": 1, "unit": "porsi" },
+      { "name": "Ketupat / Buras & sambal taoco", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus daging sapi dan jeroan dalam air tajin hingga empuk, tiriskan lalu potong dadu.",
+      "Tumis bumbu halus hingga beraroma harum matang.",
+      "Masukkan tumisan bumbu ke dalam kuah rebusan tajin.",
+      "Campurkan kacang tanah sangrai halus, aduk rata hingga kuah coto mengental gurih.",
+      "Sajikan potongan daging di mangkuk, siram kuah coto kental panas, makan dengan buras."
+    ],
+    "tips": "Air cucian beras pertama menghasilkan rasa gurih alami pada kuah coto."
+  },
+  {
+    "id": "sul-2",
+    "name": "Es Pisang Ijo Makassar",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Dessert & Minuman",
+    "tags": ["Pisang Raja", "Pandan", "Sirup DHT"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 25,
+    "servings": 5,
+    "calories": 310,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Pisang raja terbungkus adonan hijau pandan lembut, disajikan bersama bubur sumsum dan sirup merah manis.",
+    "ingredients": [
+      { "name": "Pisang raja tua matang (kukus)", "amount": 5, "unit": "buah" },
+      { "name": "Tepung beras & santan (Adonan Hijau)", "amount": 200, "unit": "gram" },
+      { "name": "Air daun pandan suji alami", "amount": 100, "unit": "ml" },
+      { "name": "Bubur sumsum santan kental", "amount": 1, "unit": "porsi" },
+      { "name": "Sirup merah DHT khas Makassar & es serut", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Masak tepung beras, santan, dan air pandan hingga adonan hijau mengental kalis.",
+      "Pipihkan adonan hijau, balutkan membungkus pisang raja kukus.",
+      "Kukus kembali pisang ijo selama 15 menit hingga adonan matang mengkilap.",
+      "Tata bubur sumsum santan dan irisan pisang ijo di mangkuk saji.",
+      "Beri es serut melimpah dan siram dengan sirup merah DHT khas."
+    ],
+    "tips": "Gunakan Sirup DHT pisang ambon khas Makassar untuk rasa otentik."
+  },
+  {
+    "id": "sul-3",
+    "name": "Ayam Rica-Rica Manado",
+    "region": "Sulawesi",
+    "province": "Sulawesi Utara",
+    "category": "Makanan Utama",
+    "tags": ["Ayam", "Pedas Pedas", "Daun Kemangi"],
+    "difficulty": "Mudah",
+    "cookTime": 40,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 420,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Potongan ayam digoreng setengah matang lalu ditumis dalam racikan cabai rica beraroma kemangi.",
+    "ingredients": [
+      { "name": "Dada / paha ayam (potong sedang)", "amount": 800, "unit": "gram" },
+      { "name": "Cabai rawit merah & cabai keriting (tumbuk kasar)", "amount": 150, "unit": "gram" },
+      { "name": "Bawang merah & jahe", "amount": 8, "unit": "siung" },
+      { "name": "Daun kemangi segar", "amount": 2, "unit": "genggam" },
+      { "name": "Daun jeruk & air jeruk nipis", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Goreng ayam hingga setengah matang berkaramel, tiriskan.",
+      "Tumis tumbukan kasar cabai, bawang merah, jahe, dan daun jeruk dengan minyak cukup.",
+      "Masukkan ayam goreng ke dalam tumisan cabai rica.",
+      "Masak dengan api sedang hingga bumbu cabai meresap ke serat ayam.",
+      "Masukkan daun kemangi dan perasan jeruk nipis sesaat sebelum diangkat."
+    ],
+    "tips": "Tumbuk kasar bumbu cabai agar tekstur pedas rica khas Manado terlihat menggugah."
+  },
+  {
+    "id": "sul-4",
+    "name": "Bubur Manado (Tinutuan)",
+    "region": "Sulawesi",
+    "province": "Sulawesi Utara",
+    "category": "Makanan Utama",
+    "tags": ["Bubur Sayur", "Labu Kuning", "Ikan Asin"],
+    "difficulty": "Mudah",
+    "cookTime": 35,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 250,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Bubur beras kaya nutrisi yang dimasak bersama labu kuning, jagung manis, kangkung, dan bayam.",
+    "ingredients": [
+      { "name": "Beras putih", "amount": 150, "unit": "gram" },
+      { "name": "Labu kuning / goroho (hancurkan)", "amount": 200, "unit": "gram" },
+      { "name": "Jagung manis pipil", "amount": 100, "unit": "gram" },
+      { "name": "Sayuran (Kangkung, bayam, kemangi, geda)", "amount": 150, "unit": "gram" },
+      { "name": "Pelengkap: Sambal roa & ikan asin goring", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus beras bersama air dan potongan labu kuning hingga labu lembut menyatu.",
+      "Masukkan jagung manis pipil, aduk hingga bubur mengental kuning keemasan.",
+      "Masukkan sayur kangkung, bayam, dan kemangi segar.",
+      "Bubuhi garam secukupnya, aduk sebentar hingga sayur layu.",
+      "Sajikan hangat bersama pelengkap sambal roa dan ikan asin jambal goreng."
+    ],
+    "tips": "Labu kuning yang dihancurkan akan memberi warna kuning alami dan tekstur creamy."
+  },
+  {
+    "id": "sul-5",
+    "name": "Ikan Woku Belanga Manado",
+    "region": "Sulawesi",
+    "province": "Sulawesi Utara",
+    "category": "Makanan Utama",
+    "tags": ["Ikan Kakap", "Woku Belanga", "Daun Pandan"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 330,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan ikan segar yang dimasak dalam periuk belanga dengan bumbu woku kaya aroma pandan dan kemangi.",
+    "ingredients": [
+      { "name": "Ikan kakap / gurame segar", "amount": 600, "unit": "gram" },
+      { "name": "Daun pandan (iris halus)", "amount": 2, "unit": "lembar" },
+      { "name": "Daun kunyit & daun jeruk", "amount": 2, "unit": "lembar" },
+      { "name": "Bumbu halus woku (Kunyit, jahe, kemiri, cabai, bawang)", "amount": 1, "unit": "porsi" },
+      { "name": "Daun kemangi & tomat hijau", "amount": 1, "unit": "genggam" }
+    ],
+    "steps": [
+      "Tumis bumbu halus bersama irisan daun pandan, daun kunyit, dan daun jeruk hingga wangi.",
+      "Tuangkan sedikit air matang hingga kuah woku mendidih.",
+      "Masukkan potongan ikan segar dan irisan tomat hijau.",
+      "Masak dengan api sedang hingga ikan matang dan bumbu woku meresap kuning.",
+      "Masukkan daun kemangi segar sebelum diangkat dari belanga."
+    ],
+    "tips": "Irisan daun pandan muda pada bumbu tumis adalah keunikan woku Manado."
+  },
+  {
+    "id": "sul-6",
+    "name": "Pallubasa Makassar Serap Kelapa",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Sup & Kuah",
+    "tags": ["Daging Sapi", "Kelapa Sangrai", "Telur Kampung Mentah"],
+    "difficulty": "Sedang",
+    "cookTime": 90,
+    "prepTime": 25,
+    "servings": 5,
+    "calories": 540,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup daging dan jeroan sapi khas Makassar dengan taburan kelapa parut sangrai dan kuning telur mentah (alas).",
+    "ingredients": [
+      { "name": "Daging sapi & babat/jantung", "amount": 600, "unit": "gram" },
+      { "name": "Kelapa parut sangrai (tumbuk berminyak)", "amount": 100, "unit": "gram" },
+      { "name": "Kuning telur ayam kampung mentah", "amount": 4, "unit": "butir" },
+      { "name": "Bumbu halus (Bawang, ketumbar, jintan, jahe, kayu manis)", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Rebus daging sapi dan jeroan hingga empuk, potong-potong.",
+      "Tumis bumbu halus hingga harum, masukkan ke dalam air rebusan kaldu daging.",
+      "Campurkan kelapa sangrai tumbuk berminyak ke dalam kuah sup.",
+      "Masak hingga kuah meluapkan aroma gurih kental.",
+      "Pecahkan 1 kuning telur kampung mentah di mangkuk, siram dengan kuah dan daging panas."
+    ],
+    "tips": "Kuah sup yang sangat panas akan mematangkan kuning telur kampung secara instan di mangkuk."
+  },
+  {
+    "id": "sul-7",
+    "name": "Sup Konro Bakar Makassar",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Sate & Bakaran",
+    "tags": ["Iga Sapi", "Kluwek Bakar", "Bumbu Kacang"],
+    "difficulty": "Sulit",
+    "cookTime": 120,
+    "prepTime": 30,
+    "servings": 4,
+    "calories": 620,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Iga sapi ukuran besar yang direbus bumbu kluwek hitam empuk, lalu dibakar dan disiram bumbu kacang.",
+    "ingredients": [
+      { "name": "Iga sapi berdaging tebal", "amount": 1000, "unit": "gram" },
+      { "name": "Kluwek hitam (haluskan)", "amount": 4, "unit": "buah" },
+      { "name": "Bumbu halus sup rempah konro", "amount": 1, "unit": "porsi" },
+      { "name": "Bumbu kacang konro bakar kental", "amount": 150, "unit": "gram" }
+    ],
+    "steps": [
+      "Rebus iga sapi bersama bumbu halus rempah dan kluwek hingga daging iga sangat empuk.",
+      "Tiriskan iga sapi rebus.",
+      "Olesi iga dengan bumbu kacang dan sedikit kecap manis.",
+      "Bakar di atas bara arang hingga harum berkaramel kehitaman.",
+      "Sajikan iga bakar di piring saji didampingi semangkuk kuah konro hitam."
+    ],
+    "tips": "Rebus iga dengan api kecil (slow cook) agar daging tidak lepas dari tulangnya."
+  },
+  {
+    "id": "sul-8",
+    "name": "Kaledo Donggala",
+    "region": "Sulawesi",
+    "province": "Sulawesi Tengah",
+    "category": "Sup & Kuah",
+    "tags": ["Kaki Sapi", "Kuah Asam Bening", "Sumsum"],
+    "difficulty": "Sedang",
+    "cookTime": 150,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 480,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kaki Lembu Donggala (Kaledo) berisi sumsum yang dimasak kuah asam bening segar bercita rasa cabai rawit.",
+    "ingredients": [
+      { "name": "Kaki sapi potong berisi sumsum", "amount": 1500, "unit": "gram" },
+      { "name": "Asam jawa muda segar (rebus, ambil airnya)", "amount": 5, "unit": "buah" },
+      { "name": "Cabai rawit hijau (ulek kasar)", "amount": 20, "unit": "buah" },
+      { "name": "Garam kasar secukupnya", "amount": 1, "unit": "sdm" }
+    ],
+    "steps": [
+      "Rebus potong kaki sapi dalam air melimpah hingga empuk dan sumsumnya matang.",
+      "Masukkan ulekan cabai rawit hijau kasar dan rasa asam jawa segar.",
+      "Bubuhi garam kasar secukupnya tanpa tambahan penyedap lain.",
+      "Masak berkesinambungan hingga kuah bening asam pedas meresap.",
+      "Sajikan dalam mangkuk besar lengkap dengan sedotan untuk menikmati sumsum."
+    ],
+    "tips": "Resep autentik Kaledo hanya menggunakan garam, cabai rawit, dan asam jawa muda."
+  },
+  {
+    "id": "sul-9",
+    "name": "Mie Titi Kering Makassar",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Mie & Pasta",
+    "tags": ["Mie Kering", "Kuah Kental", "Seafood"],
+    "difficulty": "Mudah",
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 460,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=1000",
+    "description": "Mie kuning halus goreng garing krik-krik yang disiram kuah maizena kental isi ayam, udang, dan sawi.",
+    "ingredients": [
+      { "name": "Mie kuning halus (goreng garing gumpal)", "amount": 300, "unit": "gram" },
+      { "name": "Daging ayam iris & udang kupas", "amount": 150, "unit": "gram" },
+      { "name": "Hati ayam & bakso potong", "amount": 100, "unit": "gram" },
+      { "name": "Sawi hijau & telur kocok", "amount": 1, "unit": "secukupnya" },
+      { "name": "Tepung maizena (pengental kuah)", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Goreng mie kuning halus dalam minyak panas hingga garing renyah, tata di piring saji.",
+      "Tumis bawang putih, masukkan ayam, udang, hati, dan bakso.",
+      "Tuangkan air kaldu, beri garam, lada, dan sawi hijau.",
+      "Masukkan kocokan telur perlahan dan kental rasa kuah dengan larutan maizena.",
+      "Siramkan kuah kental panas di atas tumpukan mie garing titi."
+    ],
+    "tips": "Nikmati segera saat mi masih terasa renyah berpadu kuah kental panas."
+  },
+  {
+    "id": "sul-10",
+    "name": "Kapurung Luwu khas Sulsel",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Makanan Utama",
+    "tags": ["Sagu", "Kuah Ikan", "Jantung Pisang"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 290,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Pentol pentol sagu bening kenyal yang disajikan dalam kuah ikan asam dengan aneka sayur dan jantung pisang.",
+    "ingredients": [
+      { "name": "Tepung sagu murni", "amount": 200, "unit": "gram" },
+      { "name": "Daging ikan patin / bandeng rebus suwir", "amount": 200, "unit": "gram" },
+      { "name": "Sayuran (Bayam, jantung pisang, kacang panjang)", "amount": 150, "unit": "gram" },
+      { "name": "Air perasan jeruk nipis & patani (kacang tanah ulek)", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Seduh tepung sagu dengan air panas meletup, aduk cepat hingga bening transparan.",
+      "Bulat-bulatkan adonan sagu menggunakan sumpit (pentol kapurung), masukkan ke air dingin.",
+      "Masak kuah sup ikan suwir bersama aneka sayuran rebus dan ulekan kacang tanah.",
+      "Masukkan pentol-pentol sagu ke dalam kuah ikan asam.",
+      "Sajikan dalam mangkuk dengan perasan jeruk nipis segar."
+    ],
+    "tips": "Gunakan air mendidih meletup agar sagu matang bening sempurna."
+  },
+  {
+    "id": "sul-11",
+    "name": "Sate Kolombi Minahasa",
+    "region": "Sulawesi",
+    "province": "Sulawesi Utara",
+    "category": "Sate & Bakaran",
+    "tags": ["Daging Siput", "Pedas Gurih", "Bakar"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 270,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sate daging siput danau (kolombi) yang dibumbui rempah pedas Manado lalu dibakar di atas arang.",
+    "ingredients": [
+      { "name": "Daging kolombi / siput danau (bersihkan)", "amount": 500, "unit": "gram" },
+      { "name": "Bumbu marinasi (Cabai rawit, jahe, serai, daun jeruk)", "amount": 1, "unit": "porsi" },
+      { "name": "Kecap manis & minyak goreng", "amount": 2, "unit": "sdm" }
+    ],
+    "steps": [
+      "Rebus daging kolombi dengan serai dan jahe hingga empuk kenyal, tiriskan.",
+      "Lumuri daging kolombi dengan marinasi bumbu halus pedas rica.",
+      "Tusuk daging kolombi pada tusukan sate.",
+      "Bakar di atas bara api arang sambil diolesi bumbu pedas dan kecap manis.",
+      "Sajikan panas dengan sambal rica ekstra."
+    ],
+    "tips": "Rebus siput dengan daun jeruk untuk menghilangkan aroma amis dan lumpur."
+  },
+  {
+    "id": "sul-12",
+    "name": "Cakalang Fufu Santan Pedas",
+    "region": "Sulawesi",
+    "province": "Sulawesi Utara",
+    "category": "Makanan Utama",
+    "tags": ["Ikan Cakalang Asap", "Santan", "Pedas"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 390,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=1000",
+    "description": "Suwiran ikan cakalang asap (fufu) yang dimasak kuah santan cabai merah gurih beraroma asap kuat.",
+    "ingredients": [
+      { "name": "Ikan cakalang fufu (asap) suwir", "amount": 400, "unit": "gram" },
+      { "name": "Santan kelapa encer & kental", "amount": 600, "unit": "ml" },
+      { "name": "Bumbu halus (Cabai merah, cabai rawit, bawang, jahe, kunyit)", "amount": 1, "unit": "porsi" },
+      { "name": "Daun jeruk & kemangi", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Suwir-suwir daging ikan cakalang fufu asap.",
+      "Tumis bumbu halus bersama daun jeruk hingga matang wangi.",
+      "Tuangkan santan encer, aduk hingga mendidih.",
+      "Masukkan suwiran cakalang fufu, kecilkan api hingga bumbu santan meresap.",
+      "Tambahkan santan kental dan daun kemangi sebelum diangkat."
+    ],
+    "tips": "Aroma khas kayu asap pada cakalang fufu menjadi daya tarik utama."
+  },
+  {
+    "id": "sul-13",
+    "name": "Sinonggi khas Kendari",
+    "region": "Sulawesi",
+    "province": "Sulawesi Tenggara",
+    "category": "Makanan Utama",
+    "tags": ["Sagu", "Kuah Ikan Palumara", "Tradisional"],
+    "difficulty": "Mudah",
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 260,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Makanan pokok berupa adonan sagu bening kenyal khas suku Tolaki yang disajikan dengan ikan palumara.",
+    "ingredients": [
+      { "name": "Tepung sagu murni", "amount": 200, "unit": "gram" },
+      { "name": "Kuah ikan asam kuning (Palumara)", "amount": 500, "unit": "ml" },
+      { "name": "Sayur bening bayam & jagung", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Seduh sagu dengan air mendidih sambil dikocok cepat hingga menjadi gumpalan transparan.",
+      "Ambil gulungan sinonggi menggunakan dua sumpit kayu (posisi digulung).",
+      "Masukkan gulungan sinonggi ke dalam wadah mangkuk berisi kuah ikan palumara.",
+      "Lengkapi dengan sayur bening segar.",
+      "Sajikan dan santap selagi hangat."
+    ],
+    "tips": "Santap sinonggi tanpa dikunyah melainkan langsung ditelan bersama kuah segar."
+  },
+  {
+    "id": "sul-14",
+    "name": "Binte Biluhuta (Milu Siram)",
+    "region": "Sulawesi",
+    "province": "Gorontalo",
+    "category": "Sup & Kuah",
+    "tags": ["Jagung Pulut", "Udang", "Ikan Cakalang"],
+    "difficulty": "Mudah",
+    "cookTime": 35,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 240,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup jagung manis siram berpadu suwiran ikan cakalang, udang segar, kelapa parut, dan jeruk nipis.",
+    "ingredients": [
+      { "name": "Jagung manis / pulut pipil", "amount": 300, "unit": "gram" },
+      { "name": "Udang kupas segar", "amount": 100, "unit": "gram" },
+      { "name": "Daging ikan cakalang rebus suwir", "amount": 100, "unit": "gram" },
+      { "name": "Kelapa parut agak muda", "amount": 3, "unit": "sdm" },
+      { "name": "Daun kemangi, daun bawang, & jeruk nipis", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus jagung pipil manis hingga empuk dalam air kaldu.",
+      "Masukkan udang segar dan suwiran ikan cakalang rebus.",
+      "Masukkan irisan bawang merah, cabai rawit, dan kelapa parut.",
+      "Bubuhi garam, lalu masukkan kemangi sebelum api dimatikan.",
+      "Siramkan jeruk nipis segar di mangkuk saat disajikan."
+    ],
+    "tips": "Kelapa parut muda memberikan manis gurih yang unik pada sup jagung ini."
+  },
+  {
+    "id": "sul-15",
+    "name": "Ayam Iloni Gorontalo",
+    "region": "Sulawesi",
+    "province": "Gorontalo",
+    "category": "Sate & Bakaran",
+    "tags": ["Ayam Bakar", "Bumbu Santan", "Rempah Pelek"],
+    "difficulty": "Sedang",
+    "cookTime": 45,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 410,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ayam bakar khas Gorontalo yang diungkep santan berbumbu kaya rempah sebelum dibakar garing.",
+    "ingredients": [
+      { "name": "Ayam potong", "amount": 800, "unit": "gram" },
+      { "name": "Santan kental kelapa", "amount": 400, "unit": "ml" },
+      { "name": "Bumbu halus (Bawang, kunyit, jahe, kemiri, cabai)", "amount": 1, "unit": "porsi" },
+      { "name": "Serai & daun jeruk purut", "amount": 2, "unit": "batang" }
+    ],
+    "steps": [
+      "Tumis bumbu halus bersama serai dan daun jeruk hingga wangi.",
+      "Tuangkan santan kental dan masukkan potongan ayam.",
+      "Ungkep ayam hingga kuah santan meresap mengental mengering.",
+      "Panggang ayam di atas bara arang membara sambil terus diolesi sisa sisa bumbu santan pekat.",
+      "Bakar hingga permukaan luar ayam kecokelatan harum."
+    ],
+    "tips": "Bumbu ungkapan santan yang pekat akan karamel saat dibakar di atas arang."
+  },
+  {
+    "id": "sul-16",
+    "name": "Lapa-Lapa khas Sulsel",
+    "region": "Sulawesi",
+    "province": "Sulawesi Tenggara",
+    "category": "Makanan Utama",
+    "tags": ["Beras Ketan", "Santan", "Daun Kelapa"],
+    "difficulty": "Sedang",
+    "cookTime": 60,
+    "prepTime": 30,
+    "servings": 5,
+    "calories": 330,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan beras dan santan yang dibungkus daun kelapa berbentuk silinder memanjang lalu direbus.",
+    "ingredients": [
+      { "name": "Beras putih campuran ketan", "amount": 400, "unit": "gram" },
+      { "name": "Santan kental gurih", "amount": 500, "unit": "ml" },
+      { "name": "Daun kelapa muda (janur) dibentuk silinder", "amount": 10, "unit": "lembar" },
+      { "name": "Tali pengikat bambu / kasur", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Aron beras bersama santan kental dan garam hingga santan terserap habis.",
+      "Masukkan nasi aron gurih ke dalam pembungkus janur silinder.",
+      "Ikat rapat bagian ujung dan badan lapa-lapa menggunakan tali.",
+      "Rebus dalam air mendidih selama 1 jam hingga padat kenyal.",
+      "Tiriskan, potong-potong dan sajikan bersama ikan asin atau rendang."
+    ],
+    "tips": "Ikat silinder dengan kencang agar isi lapa-lapa tidak pecah saat direbus."
+  },
+  {
+    "id": "sul-17",
+    "name": "Kue Barongko Pisang Makassar",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Dessert & Minuman",
+    "tags": ["Pisang Kepok", "Telur", "Kukus Daun"],
+    "difficulty": "Mudah",
+    "cookTime": 40,
+    "prepTime": 20,
+    "servings": 6,
+    "calories": 230,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kue tradisional Bugis dari pisang kepok dihaluskan bersama telur, santan, dan gula yang dikukus daun pisang.",
+    "ingredients": [
+      { "name": "Pisang kepok matang (haluskan buang tengah)", "amount": 10, "unit": "buah" },
+      { "name": "Telur bebek / ayam", "amount": 4, "unit": "butir" },
+      { "name": "Santan kental rebus", "amount": 250, "unit": "ml" },
+      { "name": "Gula pasir & sedikit garam", "amount": 100, "unit": "gram" },
+      { "name": "Daun pisang untuk membungkus", "amount": 6, "unit": "lembar" }
+    ],
+    "steps": [
+      "Haluskan pisang kepok matang (buang bagian tengahnya).",
+      "Kocok telur, gula pasir, garam, dan santan kental.",
+      "Campur adonan pisang halus ke dalam kocokan santan telur.",
+      "Bungkus adonan dalam daun pisang bentuk Tum rapat.",
+      "Kukus selama 30 menit hingga matang padat beraroma wangi pisang."
+    ],
+    "tips": "Sajikan dingin dari dalam kulkas untuk rasa manis creamy yang segar."
+  },
+  {
+    "id": "sul-18",
+    "name": "Sambal Roa khas Manado",
+    "region": "Sulawesi",
+    "province": "Sulawesi Utara",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Ikan Roa Asap", "Sambal Pedas", "Goreng"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 15,
+    "servings": 8,
+    "calories": 150,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sambal garing dari tumbukan halus ikan roa asap yang disanggrai dan ditumis cabai merah melimpah.",
+    "ingredients": [
+      { "name": "Daging ikan roa asap (haluskan/tumbuk)", "amount": 150, "unit": "gram" },
+      { "name": "Cabai rawit merah & cabai keriting", "amount": 100, "unit": "gram" },
+      { "name": "Bawang merah & bawang putih", "amount": 8, "unit": "siung" },
+      { "name": "Minyak goreng", "amount": 100, "unit": "ml" }
+    ],
+    "steps": [
+      "Sangrai tumbukan daging ikan roa asap tanpa minyak hingga garing wangi.",
+      "Haluskan cabai merah dan bawang.",
+      "Tumis bumbu cabai dengan minyak goreng hingga matang berminyak.",
+      "Masukkan tumbukan ikan roa asap sangrai.",
+      "Aduk terus dengan api kecil hingga sambal roa mengering berminyak."
+    ],
+    "tips": "Sangrai ikan roa terlebih dahulu untuk memastikan tidak ada bau amis."
+  },
+  {
+    "id": "sul-19",
+    "name": "Klalak Ikan Mas Sulteng",
+    "region": "Sulawesi",
+    "province": "Sulawesi Tengah",
+    "category": "Makanan Utama",
+    "tags": ["Ikan Mas", "Kuah Asam Kuning", "Kemangi"],
+    "difficulty": "Sedang",
+    "cookTime": 40,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 310,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan sup ikan segar berkuah asam kunyit pedas khas Kaili Sulawesi Tengah.",
+    "ingredients": [
+      { "name": "Ikan mas / gurame segar", "amount": 600, "unit": "gram" },
+      { "name": "Air asam jawa / belimbing wulung", "amount": 3, "unit": "sdm" },
+      { "name": "Bumbu halus (Kunyit, bawang, cabai rawit)", "amount": 1, "unit": "porsi" },
+      { "name": "Daun kemangi segar", "amount": 1, "unit": "genggam" }
+    ],
+    "steps": [
+      "Bersihkan ikan mas, potong menjadi 3 bagian.",
+      "Rebus air bersama bumbu kunyit halus dan asam jawa hingga mendidih.",
+      "Masukkan potongan ikan, kecilkan api.",
+      "Masak hingga kuah meresap kuning ke dalam daging ikan.",
+      "Tambahkan kemangi segar dan sajikan."
+    ],
+    "tips": "Gunakan kunyit segar bakar untuk warna kuah yang lebih terang."
+  },
+  {
+    "id": "sul-20",
+    "name": "Es Pallu Butung Makassar",
+    "region": "Sulawesi",
+    "province": "Sulawesi Selatan",
+    "category": "Dessert & Minuman",
+    "tags": ["Pisang Raja", "Bubur Sumsum", "Sirup DHT"],
+    "difficulty": "Mudah",
+    "cookTime": 25,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 290,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Potongan pisang raja kukus di atas bubur tepung beras santan putih disiram sirup merah manis.",
+    "ingredients": [
+      { "name": "Pisang raja tua kukus (iris bulat)", "amount": 4, "unit": "buah" },
+      { "name": "Tepung beras, santan, & daun pandan (Bubur)", "amount": 1, "unit": "porsi" },
+      { "name": "Sirup DHT merah / cocopandan", "amount": 100, "unit": "ml" },
+      { "name": "Es batu kepruk", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Masak tepung beras, santan, gula, dan daun pandan hingga menjadi bubur putih lembut.",
+      "Tata bubur putih di dalam mangkuk saji.",
+      "Letakkan irisan pisang raja kukus di atas bubur.",
+      "Beri pecahan es batu.",
+      "Siram sirup merah melimpah dan sajikan."
+    ],
+    "tips": "Berbeda dari pisang ijo, pisang pada es pallu butung tidak dibalut kulit hijau."
+  }
+]

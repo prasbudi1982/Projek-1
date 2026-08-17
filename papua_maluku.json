@@ -1,0 +1,607 @@
+[
+  {
+    "id": "pap-1",
+    "name": "Papeda Ikan Kuah Kuning",
+    "region": "Maluku & Papua",
+    "province": "Papua & Maluku",
+    "category": "Makanan Utama",
+    "tags": ["Sagu", "Ikan Kakap", "Asam Segar"],
+    "difficulty": "Sedang",
+    "cookTime": 35,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 290,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=1000",
+    "description": "Bubur sagu bening kenyal khas Indonesia Timur disajikan dengan siraman kuah ikan kunyit asam kemangi.",
+    "ingredients": [
+      { "name": "Tepung sagu murni", "amount": 250, "unit": "gram" },
+      { "name": "Air mendidih meletup", "amount": 1000, "unit": "ml" },
+      { "name": "Ikan kakap / tongkol segar", "amount": 500, "unit": "gram" },
+      { "name": "Bumbu kuning halus (Kunyit, jahe, bawang, cabai rawit)", "amount": 1, "unit": "porsi" },
+      { "name": "Daun kemangi & air jeruk nipis", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Tumis bumbu kuning halus, tuang air, masukkan potongan ikan kakap segar.",
+      "Masak hingga ikan matang, beri daun kemangi dan perasan jeruk nipis.",
+      "Larutkan tepung sagu dengan sedikit air dingin di wadah.",
+      "Siram larutan sagu dengan air yang benar-benar mendidih meletup sambil dikocok cepat hingga transparan.",
+      "Gulung papeda dengan pasatai (gincu kayu) dan sajikan bersama kuah ikan kuning."
+    ],
+    "tips": "Air penyiram harus meletup-letup panas agar adonan sagu langsung berubah bening matang."
+  },
+  {
+    "id": "pap-2",
+    "name": "Ikan Bakar Manokwari",
+    "region": "Maluku & Papua",
+    "province": "Papua Barat",
+    "category": "Sate & Bakaran",
+    "tags": ["Ikan Tongkol", "Sambal Rawit Mentah", "Bakar"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 340,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ikan tongkol bakar khas Papua yang disajikan dengan ulekan kasar sambal cabai rawit mentah yang super pedas.",
+    "ingredients": [
+      { "name": "Ikan tongkol / cakalang segar", "amount": 600, "unit": "gram" },
+      { "name": "Cabai rawit merah Papua (ulek kasar mentah)", "amount": 100, "unit": "gram" },
+      { "name": "Bawang merah ulek kasar", "amount": 8, "unit": "siung" },
+      { "name": "Air perasan jeruk nipis & perasan asam", "amount": 2, "unit": "sdm" }
+    ],
+    "steps": [
+      "Lumuri ikan tongkol dengan perasan jeruk nipis dan garam.",
+      "Bakar ikan di atas bara api arang hingga matang garing harum.",
+      "Ulek kasar cabai rawit merah dan bawang merah mentah.",
+      "Beri garam dan perasan jeruk nipis pada ulekan cabai.",
+      "Siramkan sambal mentah ini langsung di atas ikan bakar panas."
+    ],
+    "tips": "Kepulauan Papua terkenal dengan cabai rawit yang memiliki tingkat pedas sangat tinggi."
+  },
+  {
+    "id": "pap-3",
+    "name": "Gobi-Gobi / Ubi Nutu Papua",
+    "region": "Maluku & Papua",
+    "province": "Papua",
+    "category": "Makanan Utama",
+    "tags": ["Keladi", "Ubi Rebus", "Sehat"],
+    "difficulty": "Mudah",
+    "cookTime": 25,
+    "prepTime": 10,
+    "servings": 4,
+    "calories": 210,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan umbi-umbian keladi dan ubi jalar rebus tumbuk kasar yang menjadi pengganti nasi di dataran tinggi Papua.",
+    "ingredients": [
+      { "name": "Ubi jalar manis / keladi Papua", "amount": 800, "unit": "gram" },
+      { "name": "Garam kasar", "amount": 1, "unit": "tsp" },
+      { "name": "Margarine / minyak kelapa", "amount": 1, "unit": "sdm" }
+    ],
+    "steps": [
+      "Kupas bersih ubi jalar atau keladi, potong-potong.",
+      "Rebus dalam air garam hingga empuk pulen.",
+      "Tumbuk kasar ubi hangat di dalam lesung kayu.",
+      "Campurkan sedikit minyak kelapa murni.",
+      "Sajikan bersama ikan bakar atau tumis daun kelor."
+    ],
+    "tips": "Santap selagi hangat untuk mendapatkan kelembutan tekstur ubi."
+  },
+  {
+    "id": "pap-4",
+    "name": "Gohu Ikan khas Ternate",
+    "region": "Maluku & Papua",
+    "province": "Maluku Utara",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Sashimi Ternate", "Ikan Tuna Mentah", "Kacang Tanah"],
+    "difficulty": "Mudah",
+    "cookTime": 15,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 220,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sashimi ala Ternate dari cincangan daging ikan tuna mentah segar yang dibumbui lemon cui dan siraman minyak panas.",
+    "ingredients": [
+      { "name": "Daging ikan tuna / cakalang segar (Sashimi grade)", "amount": 300, "unit": "gram" },
+      { "name": "Lemon cui / lemon cina", "amount": 4, "unit": "buah" },
+      { "name": "Bawang merah (iris halus)", "amount": 6, "unit": "siung" },
+      { "name": "Cabai rawit potong", "amount": 8, "unit": "buah" },
+      { "name": "Kacang tanah sangrai (tumbuk kasar) & daun kemangi", "amount": 3, "unit": "sdm" },
+      { "name": "Minyak kelapa panas membara", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Potong dadu kecil daging ikan tuna mentah segar.",
+      "Lumuri potongan tuna dengan perasan lemon cui dan garam hingga warna daging memucat.",
+      "Campurkan irisan bawang merah, cabai rawit, dan kemangi.",
+      "Siramkan minyak kelapa yang benar-benar panas membara.",
+      "Taburkan kacang tanah sangrai tumbuk dan sajikan segera."
+    ],
+    "tips": "Pastikan menggunakan ikan tuna yang sangat segar (Sashimi grade)."
+  },
+  {
+    "id": "pap-5",
+    "name": "Nasi Lapola Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Makanan Utama",
+    "tags": ["Kacang Tolo", "Kelapa Parut", "Nasi Gurih"],
+    "difficulty": "Mudah",
+    "cookTime": 40,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 360,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan nasi gurih yang dimasak bersama kacang tolo dan parutan kelapa muda gurih khas Ambon.",
+    "ingredients": [
+      { "name": "Beras putih pulen", "amount": 300, "unit": "gram" },
+      { "name": "Kacang tolo (rebus empuk)", "amount": 100, "unit": "gram" },
+      { "name": "Kelapa parut agak muda", "amount": 100, "unit": "gram" },
+      { "name": "Serai & garam", "amount": 2, "unit": "batang" }
+    ],
+    "steps": [
+      "Rebus beras setengah matang (aron).",
+      "Campurkan nasi aron bersama kacang tolo rebus, kelapa parut muda, dan garam.",
+      "Kukus campuran nasi lapola dalam dandang panas selama 30 menit.",
+      "Aduk perlahan hingga kelapa menyatu dengan nasi.",
+      "Sajikan hangat didampingi kohu-kohu atau ikan asin."
+    ],
+    "tips": "Rebus kacang tolo hingga benar-benar empuk sebelum dicampur ke nasi aron."
+  },
+  {
+    "id": "pap-6",
+    "name": "Sup Ikan Patin Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Sup & Kuah",
+    "tags": ["Ikan Patin", "Kuah Bening", "Rempah Kenari"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 270,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup ikan berkuah bening beraroma pala, cengkeh, dan perasan buah lemon khas Kepulauan Banda.",
+    "ingredients": [
+      { "name": "Ikan patin / kakap segar", "amount": 500, "unit": "gram" },
+      { "name": "Pala bubuk & cengkeh", "amount": 1, "unit": "tsp" },
+      { "name": "Bawang merah & bawang putih iris", "amount": 6, "unit": "siung" },
+      { "name": "Air perasan lemon segar & daun kemangi", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Tumis irisan bawang bersama pala dan cengkeh hingga wangi.",
+      "Tuangkan air matang, biarkan mendidih menjadi kaldu rempah.",
+      "Masukkan potongan ikan patin segar.",
+      "Masak sebentar dengan api sedang agar ikan tidak hancur.",
+      "Beri perasan lemon dan kemangi sebelum disajikan."
+    ],
+    "tips": "Pala dan cengkeh khas Banda memberikan kehangatan rasa pada kuah sup."
+  },
+  {
+    "id": "pap-7",
+    "name": "Sate Ulat Sagu Papua",
+    "region": "Maluku & Papua",
+    "province": "Papua",
+    "category": "Sate & Bakaran",
+    "tags": ["Ulat Sagu", "Bakar Arang", "Protein Tinggi"],
+    "difficulty": "Mudah",
+    "cookTime": 15,
+    "prepTime": 15,
+    "servings": 2,
+    "calories": 190,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kuliner khas Papua dari ulat pohon sagu yang kaya protein, dibakar gurih berbalur garam.",
+    "ingredients": [
+      { "name": "Ulat sagu segar (bersihkan)", "amount": 15, "unit": "ekor" },
+      { "name": "Garam kasar & air jeruk nipis", "amount": 1, "unit": "tsp" },
+      { "name": "Tusuk sate bambu", "amount": 3, "unit": "batang" }
+    ],
+    "steps": [
+      "Cuci bersih ulat sagu segar dalam air mengalir.",
+      "Tusukkan 4-5 ulat sagu pada tiap tusukan sate.",
+      "Lumuri dengan garam kasar dan sedikit jeruk nipis.",
+      "Bakar di atas pemanggang arang hingga kulit ulat membrak garing keemasan.",
+      "Sajikan hangat."
+    ],
+    "tips": "Bakar hingga kulit luar benar-benar garing untuk sensasi rasa gurih menyerupai lemak manis."
+  },
+  {
+    "id": "pap-8",
+    "name": "Sambal Colo-Colo Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Makanan Utama",
+    "tags": ["Sambal Mentah", "Kecap Manis", "Tomat Hijau"],
+    "difficulty": "Mudah",
+    "cookTime": 10,
+    "prepTime": 10,
+    "servings": 4,
+    "calories": 110,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sambal potong segar khas Ambon berbumbu tomat hijau, bawang, cabai, kecap manis, dan perasan lemon cui.",
+    "ingredients": [
+      { "name": "Tomat hijau & merah (potong dadu)", "amount": 2, "unit": "buah" },
+      { "name": "Bawang merah (iris tebal)", "amount": 8, "unit": "siung" },
+      { "name": "Cabai rawit merah & hijau (potong)", "amount": 10, "unit": "buah" },
+      { "name": "Daun kemangi (iris halus)", "amount": 2, "unit": "tangkai" },
+      { "name": "Kecap manis & air jeruk lemon cui", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Campurkan potongan tomat, irisan bawang merah, cabai rawit, dan kemangi dalam mangkuk.",
+      "Tuangkan kecap manis secukupnya.",
+      "Beri perasan jeruk lemon cui segar.",
+      "Aduk rata hingga semua bahan terendam kecap asam segar.",
+      "Sajikan pendamping ikan bakar."
+    ],
+    "tips": "Jangan diulek; bahan colo-colo cukup dipotong-potong kasar."
+  },
+  {
+    "id": "pap-9",
+    "name": "Kue Bagea Kenari",
+    "region": "Maluku & Papua",
+    "province": "Maluku Utara",
+    "category": "Dessert & Minuman",
+    "tags": ["Sagu", "Kacang Kenari", "Kue Kering"],
+    "difficulty": "Sedang",
+    "cookTime": 40,
+    "prepTime": 20,
+    "servings": 10,
+    "calories": 160,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kue kering tradisional bertekstur garing renyah terbuat dari tepung sagu, kayu manis, dan cincangan kacang kenari.",
+    "ingredients": [
+      { "name": "Tepung sagu sangrai", "amount": 300, "unit": "gram" },
+      { "name": "Kacang kenari cincang kasar", "amount": 100, "unit": "gram" },
+      { "name": "Gula aren bubuk", "amount": 150, "unit": "gram" },
+      { "name": "Minyak kelapa / margarin", "amount": 100, "unit": "ml" },
+      { "name": "Kayu manis bubuk & cengkeh bubuk", "amount": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Kocok gula aren bubuk dan minyak kelapa hingga rata.",
+      "Masukkan kayu manis bubuk, cengkeh bubuk, dan kacang kenari cincang.",
+      "Campurkan tepung sagu sangrai bertahap hingga adonan bisa dipulung.",
+      "Bentuk adonan bulat lonjong kecil-kecil, tata di loyang.",
+      "Panggang dalam oven suhu 150°C selama 30 menit hingga garing."
+    ],
+    "tips": "Sangrai tepung sagu terlebih dahulu agar kue renyah dan tahan lama."
+  },
+  {
+    "id": "pap-10",
+    "name": "Ayam Kamano Papua",
+    "region": "Maluku & Papua",
+    "province": "Papua",
+    "category": "Makanan Utama",
+    "tags": ["Ayam Bakar", "Bumbu Santan", "Bakar Batu"],
+    "difficulty": "Mudah",
+    "cookTime": 45,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 410,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ayam panggang berbumbu santan asam gurih khas pesisir pantai Papua.",
+    "ingredients": [
+      { "name": "Ayam potong", "amount": 800, "unit": "gram" },
+      { "name": "Santan encer", "amount": 400, "unit": "ml" },
+      { "name": "Bumbu halus (Bawang, kunyit, cabai rawit, jahe)", "amount": 1, "unit": "porsi" },
+      { "name": "Air perasan jeruk nipis", "amount": 2, "unit": "sdm" }
+    ],
+    "steps": [
+      "Tumis bumbu halus hingga harum.",
+      "Tuangkan santan dan air jeruk nipis.",
+      "Ungkep ayam ke dalam bumbu santan hingga kuah mengering.",
+      "Panggang ayam di atas bara arang hingga garing keemasan.",
+      "Sajikan hangat bersama papeda."
+    ],
+    "tips": "Perasan jeruk nipis yang melimpah memberi rasa segar pada bumbu ungkep."
+  },
+  {
+    "id": "pap-11",
+    "name": "Kasbi Komplit khas Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Makanan Utama",
+    "tags": ["Singkong Rebus", "Kohu-Kohu", "Ikan Asin"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 260,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kasbi (singkong rebus) empuk yang disajikan bersama tumis bunga pepaya dan kohu-kohu Ambon.",
+    "ingredients": [
+      { "name": "Kasbi / singkong mentega (kupas)", "amount": 600, "unit": "gram" },
+      { "name": "Garam kasar", "amount": 1, "unit": "tsp" },
+      { "name": "Kohu-kohu ikan cakalang suwir", "amount": 1, "unit": "porsi" },
+      { "name": "Tumis bunga pepaya pahit gurih", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Rebus kasbi singkong bersama air dan garam kasar hingga empuk mereka.",
+      "Tiriskan kasbi rebus hangat di piring saji.",
+      "Tata kohu-kohu (urap kelapa ikan Ambon) di sampingnya.",
+      "Lengkapi dengan tumisan bunga pepaya pedas.",
+      "Sajikan sebagai santapan pengganti nasi."
+    ],
+    "tips": "Pilih singkong mentega berkualitas agar rasanya empuk pulen."
+  },
+  {
+    "id": "pap-12",
+    "name": "Ikan Kuah Asam Banda",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Sup & Kuah",
+    "tags": ["Ikan Kakap", "Buah Pala Fresh", "Asam Segar"],
+    "difficulty": "Mudah",
+    "cookTime": 35,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 250,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup ikan kakap segar kuah asam dengan aroma khas irisan daging buah pala segar khas Pulau Banda.",
+    "ingredients": [
+      { "name": "Ikan kakap merah potong", "amount": 600, "unit": "gram" },
+      { "name": "Daging buah pala segar (iris tipis)", "amount": 1, "unit": "buah" },
+      { "name": "Tomat merah & belimbing wulung", "amount": 3, "unit": "buah" },
+      { "name": "Bawang merah, serai, & daun jeruk", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Rebus air bersama irisan bawang merah, serai, daun jeruk, dan irisan buah pala segar.",
+      "Setelah kuah mendidih beraroma wangi pala, masukkan potongan ikan kakap.",
+      "Masukkan irisan tomat dan belimbing wulung.",
+      "Masak sebentar hingga ikan matang dan kuah terasa asam segar khas.",
+      "Sajikan hangat dalam mangkuk."
+    ],
+    "tips": "Buah pala segar memberi sensasi rasa asam manis dan aroma rempah otentik."
+  },
+  {
+    "id": "pap-13",
+    "name": "Kue Popaco Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku Utara",
+    "category": "Dessert & Minuman",
+    "tags": ["Tepung Sagu", "Gula Merah", "Kukus Daun"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 6,
+    "calories": 180,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kue kukus tepung sagu dan gula merah manis beraroma kayu manis yang dibungkus kerucut daun pisang.",
+    "ingredients": [
+      { "name": "Tepung sagu murni", "amount": 200, "unit": "gram" },
+      { "name": "Gula aren cair pekat", "amount": 150, "unit": "ml" },
+      { "name": "Santan encer", "amount": 300, "unit": "ml" },
+      { "name": "Kayu manis bubuk", "amount": 1, "unit": "tsp" },
+      { "name": "Daun pisang (bentuk kerucut/tacing)", "amount": 6, "unit": "lembar" }
+    ],
+    "steps": [
+      "Campurkan tepung sagu, gula aren cair, santan, dan bubuk kayu manis hingga licin.",
+      "Masak adonan sebentar di atas kompor hingga setengah mengental.",
+      "Tuangkan adonan ke dalam takir kerucut daun pisang.",
+      "Kukus dalam dandang panas selama 20 menit hingga matang padat.",
+      "Nikmati kue popaco manis ini bersama teh hangat."
+    ],
+    "tips": "Aduk adonan konstan saat dimasak di atas kompor agar tidak menggumpal."
+  },
+  {
+    "id": "pap-14",
+    "name": "Ayam Colo-Colo Papua",
+    "region": "Maluku & Papua",
+    "province": "Papua Pegunungan",
+    "category": "Sate & Bakaran",
+    "tags": ["Ayam Bakar", "Sambal Colo-Colo", "Pedas"],
+    "difficulty": "Mudah",
+    "cookTime": 35,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 390,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ayam bakar kecap manis beraroma arang yang disiram sambal colo-colo mentah asam pedas.",
+    "ingredients": [
+      { "name": "Dada / paha ayam", "amount": 700, "unit": "gram" },
+      { "name": "Kecap manis & bumbu marinasi bawang", "amount": 3, "unit": "sdm" },
+      { "name": "Sambal Colo-Colo (Tomat, bawang, cabai, jeruk limau)", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Ungkep ayam bersama marinasi bumbu bawang hingga empuk.",
+      "Olesi ayam dengan kecap manis dan sisa bumbu.",
+      "Bakar ayam di atas bara api arang hingga kehitaman harum.",
+      "Pindahkan ayam bakar ke piring saji.",
+      "Siramkan sambal colo-colo mentah melimpah di atasnya."
+    ],
+    "tips": "Sensasi manis ayam bakar bertemu asam pedas colo-colo sangat seimbang."
+  },
+  {
+    "id": "pap-15",
+    "name": "Sagu Sep khas Papua",
+    "region": "Maluku & Papua",
+    "province": "Papua Selatan",
+    "category": "Makanan Utama",
+    "tags": ["Sagu Bakar", "Daging Sapi", "Bakar Batu"],
+    "difficulty": "Sulit",
+    "cookTime": 120,
+    "prepTime": 40,
+    "servings": 6,
+    "calories": 320,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Pai sagu tradisional berisi cincangan daging dan kelapa parut yang dipanggang di atas batu panas.",
+    "ingredients": [
+      { "name": "Tepung sagu basah", "amount": 500, "unit": "gram" },
+      { "name": "Daging sapi / rusa cincang", "amount": 300, "unit": "gram" },
+      { "name": "Kelapa parut muda", "amount": 200, "unit": "gram" },
+      { "name": "Bawang merah & garam", "amount": 1, "unit": "secukupnya" },
+      { "name": "Daun pisang pembungkus tebal", "amount": 4, "unit": "lembar" }
+    ],
+    "steps": [
+      "Campur sagu basah, cincangan daging, kelapa parut, dan garam.",
+      "Ratakan adonan sagu padat di atas bentangan daun pisang tebal.",
+      "Bungkus melipat rapi seperti panggangan pai pipih besar.",
+      "Panggang di antara tumpukan batu panas (bakar batu) selama 1.5 jam.",
+      "Potong-potong sagu sep matang garing dan sajikan."
+    ],
+    "tips": "Proses masak bakar batu memberikan keharuman garing khas tanah Papua."
+  },
+  {
+    "id": "pap-16",
+    "name": "Kue Asida khas Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Dessert & Minuman",
+    "tags": ["Tepung Terigu", "Gula Merah", "Minyak Samin"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 10,
+    "servings": 5,
+    "calories": 240,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kue kenyal manis dari olahan tepung, sirup gula merah, dan kapulaga dengan lelehan mentega/minyak samin.",
+    "ingredients": [
+      { "name": "Tepung terigu", "amount": 250, "unit": "gram" },
+      { "name": "Gula merah (larutkan dengan air)", "amount": 200, "unit": "gram" },
+      { "name": "Bubuk kapulaga & kayu manis", "amount": 1, "unit": "tsp" },
+      { "name": "Mentega / minyak samin leleh", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Masak larutan gula merah bersama bubuk kapulaga hingga mendidih.",
+      "Masukkan tepung terigu perlahan sambil dikocok cepat dengan spatula kayu.",
+      "Aduk terus hingga adonan menyatu kalis dan tidak lengket.",
+      "Bentuk adonan bulat dengan cekungan di tengahnya.",
+      "Tuangkan mentega leleh atau minyak samin hangat ke dalam cekungan asida."
+    ],
+    "tips": "Kue asida tradisional sangat identik disajikan saat bulan Ramadhan."
+  },
+  {
+    "id": "pap-17",
+    "name": "Ayam Napinadar Papuan Style",
+    "region": "Maluku & Papua",
+    "province": "Papua",
+    "category": "Makanan Utama",
+    "tags": ["Ayam Bakar", "Bumbu Rempah", "Pedas Getir"],
+    "difficulty": "Sedang",
+    "cookTime": 50,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 430,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ayam panggang yang disiram bumbu rempah Andaliman pedas menggigit khas perantauan Papua.",
+    "ingredients": [
+      { "name": "Ayam kampung utuh (potong 4)", "amount": 1, "unit": "ekor" },
+      { "name": "Andaliman / merica Batak", "amount": 2, "unit": "sdm" },
+      { "name": "Cabai rawit merah & bawang merah sangrai", "amount": 100, "unit": "gram" },
+      { "name": "Kemiri sangrai", "amount": 5, "unit": "butir" }
+    ],
+    "steps": [
+      "Bakar ayam kampung hingga matang garing beraroma arang.",
+      "Haluskan kemiri sangrai, cabai rawit, bawang, dan andaliman.",
+      "Tumis bumbu halus dengan sedikit minyak hingga matang wangi.",
+      "Lumurkan bumbu pedas andaliman ke seluruh permukaan ayam bakar.",
+      "Sajikan panas bersama nasi atau keladi."
+    ],
+    "tips": "Rasa getir unik andaliman akan meninggalkan sensasi getar segar di lidah."
+  },
+  {
+    "id": "pap-18",
+    "name": "Kohu-Kohu Maluku (Urap Ambon)",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Ikan Asap", "Kelapa Parut", "Sayur Mentah"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 210,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Urap khas Ambon dari perpaduan suwiran ikan cakalang asap, kacang panjang mentah, tauge, dan kelapa parut.",
+    "ingredients": [
+      { "name": "Daging ikan cakalang asap suwir", "amount": 150, "unit": "gram" },
+      { "name": "Kelapa parut sangrai bumbu", "amount": 100, "unit": "gram" },
+      { "name": "Kacang panjang (iris tipis mentah)", "amount": 5, "unit": "lanjar" },
+      { "name": "Tauge pendek mentah & kemangi", "amount": 1, "unit": "secukupnya" },
+      { "name": "Bawang merah & perasan lemon cui", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Campurkan kacang panjang mentah iris, tauge, dan daun kemangi.",
+      "Masukkan suwiran ikan cakalang asap.",
+      "Ulek halus bawang merah, cabai, terasi bakar, dan garam, campur ke kelapa parut.",
+      "Aduk rata kelapa bumbu bersama campuran sayuran mentah dan ikan.",
+      "Beri perasan lemon cui sebelum disajikan."
+    ],
+    "tips": "Sayuran kohu-kohu disajikan mentah untuk tekstur garing renyah alami."
+  },
+  {
+    "id": "pap-19",
+    "name": "Sinole Sagu khas Maluku",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Dessert & Minuman",
+    "tags": ["Tepung Sagu", "Kelapa Parut", "Manis Gurih"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 10,
+    "servings": 4,
+    "calories": 220,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Cemilan manis gurih dari tepung sagu sangrai yang disangrai bersama kelapa parut dan gula aren.",
+    "ingredients": [
+      { "name": "Tepung sagu murni", "amount": 200, "unit": "gram" },
+      { "name": "Kelapa parut setengah tua", "amount": 150, "unit": "gram" },
+      { "name": "Gula aren serut", "amount": 100, "unit": "gram" },
+      { "name": "Garam", "amount": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Campur tepung sagu, kelapa parut, dan garam dalam wajah tebal.",
+      "Sangrai adonan di atas api kecil sambil terus diaduk hingga sagu berbutir krasak.",
+      "Taburkan gula aren serut di atas adonan sagu hangat.",
+      "Aduk hingga gula aren meleleh karamel mengikat butiran sagu.",
+      "Sajikan hangat."
+    ],
+    "tips": "Sangrai dengan api kecil agar kelapa tidak gosong sebelum sagunya matang."
+  },
+  {
+    "id": "pap-20",
+    "name": "Es Buah Pala Banda",
+    "region": "Maluku & Papua",
+    "province": "Maluku",
+    "category": "Dessert & Minuman",
+    "tags": ["Buah Pala", "Sirup Gula", "Es Segar"],
+    "difficulty": "Mudah",
+    "cookTime": 15,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 140,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Minuman es segar dari irisan manisan buah pala khas Kepulauan Banda beraroma harum rempah manis.",
+    "ingredients": [
+      { "name": "Buah pala segar (iris tipis, rendam air garam)", "amount": 4, "unit": "buah" },
+      { "name": "Sirup gula pasir jernih", "amount": 150, "unit": "ml" },
+      { "name": "Biji selasih", "amount": 1, "unit": "sdm" },
+      { "name": "Es batu kepruk", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rendam irisan buah pala dalam air garam selama 2 jam untuk meredam rasa kelat, cuci bersih.",
+      "Rebus irisan buah pala bersama sirup gula hingga harum.",
+      "Dinginkan rebusan buah pala dan sirupnya.",
+      "Tata irisan pala dan biji selasih di gelas saji.",
+      "Beri es batu kepruk dan siram sirup manis pala."
+    ],
+    "tips": "Merendam buah pala dalam air garam adalah trik menghilangkan rasa kelat berlebih."
+  }
+]

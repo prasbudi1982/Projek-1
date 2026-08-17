@@ -1,0 +1,615 @@
+[
+  {
+    "id": "bal-1",
+    "name": "Ayam Betutu khas Bali",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Bumbu Rajeng", "Pedas", "Ayam Utuh"],
+    "difficulty": "Sedang",
+    "cookTime": 120,
+    "prepTime": 30,
+    "servings": 4,
+    "calories": 450,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ayam utuh yang dibumbui Bumbu Rajeng rempah Bali melimpah, dikukus lalu dipanggang empuk.",
+    "ingredients": [
+      { "name": "Ayam kampung utuh bersihkan", "amount": 1, "unit": "ekor" },
+      { "name": "Daun singkong rebus", "amount": 100, "unit": "gram" },
+      { "name": "Bumbu Rajeng rajang Bali (Bawang, cabai, kencur, kunyit, terasi)", "amount": 250, "unit": "gram" },
+      { "name": "Minyak kelapa murni (Klentik)", "amount": 4, "unit": "sdm" },
+      { "name": "Daun pisang pembungkus", "amount": 3, "unit": "lembar" }
+    ],
+    "steps": [
+      "Campurkan Bumbu Rajeng rajang bersama minyak kelapa dan garam.",
+      "Isikan sebagian bumbu rempah dan daun singkong ke dalam rongga perut ayam.",
+      "Balurkan sisa bumbu melimpah ke seluruh permukaan luar ayam.",
+      "Bungkus rapat ayam dengan daun pisang dan foil, kukus selama 1.5 jam.",
+      "Panggang sebentar di atas bara arang sebelum disajikan bersama Sambal Matah."
+    ],
+    "tips": "Minyak kelapa murni khas Bali menjadi kunci aroma gurih otentik."
+  },
+  {
+    "id": "bal-2",
+    "name": "Sate Lilit Ikan Tenggiri",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Sate & Bakaran",
+    "tags": ["Sate Lilit", "Ikan Tenggiri", "Batang Serai"],
+    "difficulty": "Sedang",
+    "cookTime": 35,
+    "prepTime": 25,
+    "servings": 4,
+    "calories": 310,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Adonan ikan tenggiri giling berbumbu rempah basa genep yang dililitkan pada batang serai segar.",
+    "ingredients": [
+      { "name": "Daging ikan tenggiri giling", "amount": 400, "unit": "gram" },
+      { "name": "Kelapa parut agak muda", "amount": 100, "unit": "gram" },
+      { "name": "Santan kental", "amount": 3, "unit": "sdm" },
+      { "name": "Bumbu basa genep halus", "amount": 3, "unit": "sdm" },
+      { "name": "Batang serai tebal (tangkai sate)", "amount": 12, "unit": "batang" }
+    ],
+    "steps": [
+      "Campurkan ikan giling, kelapa parut, santan, dan bumbu basa genep hingga adonan kalis.",
+      "Ambil kepalan adonan secukupnya.",
+      "Lilitkan dan tempelkan adonan memanjang pada bagian ujung batang serai.",
+      "Panggang sate lilit di atas panggangan arang sambil dibalik-balik hingga matang harum.",
+      "Sajikan hangat bersama sambal matah."
+    ],
+    "tips": "Gunakan batang serai tebal agar adonan melilit kuat dan memberikan aroma wangi saat dibakar."
+  },
+  {
+    "id": "bal-3",
+    "name": "Ayam Taliwang khas Lombok",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Barat",
+    "category": "Sate & Bakaran",
+    "tags": ["Ayam Bakar", "Pedas Gurih", "Terasi Lombok"],
+    "difficulty": "Sedang",
+    "cookTime": 45,
+    "prepTime": 20,
+    "servings": 3,
+    "calories": 420,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ayam muda bakar khas Lombok yang dibalur sambal cabai merah dan terasi lenkiri super pedas.",
+    "ingredients": [
+      { "name": "Ayam kampung muda (belah beber)", "amount": 1, "unit": "ekor" },
+      { "name": "Cabai merah bakar & cabai rawit", "amount": 100, "unit": "gram" },
+      { "name": "Terasi khas Lombok (bakar)", "amount": 1, "unit": "sdm" },
+      { "name": "Kencur & bawang merah", "amount": 4, "unit": "cm" },
+      { "name": "Gula merah & air jeruk limau", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Bakar ayam muda setengah matang di atas bara api arang.",
+      "Tumis bumbu halus cabai, kencur, dan terasi lombok hingga matang berminyak.",
+      "Ungkep ayam setengah matang ke dalam tumisan bumbu pedas sebentar.",
+      "Bakar kembali ayam sambil terus dibalurkan sisa bumbu pedas berulang kali.",
+      "Sajikan bersama plecing kangkung Lombok."
+    ],
+    "tips": "Gunakan ayam kampung muda (ayam berutu) agar dagingnya sangat empuk."
+  },
+  {
+    "id": "bal-4",
+    "name": "Se'i Sapi khas Kupang",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Timur",
+    "category": "Sate & Bakaran",
+    "tags": ["Daging Asap", "Daun Kesambi", "Sambal Lu'at"],
+    "difficulty": "Sulit",
+    "cookTime": 180,
+    "prepTime": 40,
+    "servings": 6,
+    "calories": 490,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Daging sapi asap khas Kupang yang dimasak dengan kayu bakar dan ditutupi daun kesambi.",
+    "ingredients": [
+      { "name": "Daging sapi memanjang (gandik)", "amount": 1000, "unit": "gram" },
+      { "name": "Garam kasar & lada putih", "amount": 2, "unit": "sdm" },
+      { "name": "Daun kesambi segar (penutup asap)", "amount": 1, "unit": "ikat" },
+      { "name": "Sambal Lu'at (Cabai, jeruk purut, daun kemangi)", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Lumuri garis potongan daging sapi dengan garam kasar dan lada.",
+      "Gantungkan daging di atas ruang pengasapan kayu bakar berjarak 50 cm dari api.",
+      "Tutup tumpukan daging dengan daun kesambi segar.",
+      "Asapi perlahan selama 2-3 jam hingga warna daging kemerahan matang beraroma kayu.",
+      "Iris tipis daging se'i asap dan sajikan bersama sambal lu'at."
+    ],
+    "tips": "Daun kesambi mempertahankan warna merah alami daging dan memberi aroma asap khas."
+  },
+  {
+    "id": "bal-5",
+    "name": "Plecing Kangkung Lombok",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Barat",
+    "category": "Makanan Utama",
+    "tags": ["Kangkung", "Sambal Tomat Terasi", "Kacang Goreng"],
+    "difficulty": "Mudah",
+    "cookTime": 15,
+    "prepTime": 10,
+    "servings": 3,
+    "calories": 140,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kangkung khas Lombok berbatang besar yang direbus, diswir, dan disiram sambal terasi mentah segar.",
+    "ingredients": [
+      { "name": "Kangkung segar Lombok", "amount": 2, "unit": "ikat" },
+      { "name": "Tomat merah segar & cabai rawit", "amount": 100, "unit": "gram" },
+      { "name": "Terasi Lombok bakar", "amount": 1, "unit": "tsp" },
+      { "name": "Jeruk limau", "amount": 1, "unit": "buah" },
+      { "name": "Kacang tanah goreng & kedelai goreng", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Rebus kangkung dalam air mendidih berminyak sedikit, tiriskan dan belah suwir batangnya.",
+      "Ulek mentah tomat, cabai rawit, terasi bakar, garam, dan gula.",
+      "Beri perasan jeruk limau segar pada ulekan sambal.",
+      "Tata suwiran kangkung rebus di piring, siramkan sambal terasi mentah di atasnya.",
+      "Taburkan kacang tanah dan kedelai goreng renyah."
+    ],
+    "tips": "Suwir batang kangkung agar sambal terasi meresap sempurna."
+  },
+  {
+    "id": "bal-6",
+    "name": "Nasi Campur Bali Komplit",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Nasi Campur", "Sate Lilit", "Sambal Matah"],
+    "difficulty": "Sedang",
+    "cookTime": 60,
+    "prepTime": 30,
+    "servings": 4,
+    "calories": 510,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sajian nasi hangat lengkap dengan sate lilit, ayam suwir sisit, lawar, telur urutan, dan sambal matah.",
+    "ingredients": [
+      { "name": "Nasi putih hangat", "amount": 4, "unit": "porsi" },
+      { "name": "Ayam suwir sisit bumbu genep", "amount": 150, "unit": "gram" },
+      { "name": "Sate lilit ikan", "amount": 4, "unit": "batang" },
+      { "name": "Lawar nangka / kacang panjang", "amount": 100, "unit": "gram" },
+      { "name": "Sambal matah & kacang tanah goreng", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Siapkan komponen lauk: ayam sisit, sate lilit, dan lawar.",
+      "Cetak nasi putih di tengah piring saji.",
+      "Tata melingkar lauk-pauk pendamping di sekeliling nasi.",
+      "Beri sendokan sambal matah segar dan taburan kacang goreng.",
+      "Sajikan segera."
+    ],
+    "tips": "Kombinasi tekstur pedas sambal matah dan gurihnya ayam sisit adalah kunci kelezatan."
+  },
+  {
+    "id": "bal-7",
+    "name": "Lawar Ayam khas Bali",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Lawar", "Kacang Panjang", "Kelapa Parut Sangrai"],
+    "difficulty": "Sedang",
+    "cookTime": 40,
+    "prepTime": 25,
+    "servings": 4,
+    "calories": 330,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Campuran cincangan daging ayam, kacang panjang, dan kelapa parut sangrai yang diaduk bumbu basa embak.",
+    "ingredients": [
+      { "name": "Daging dada ayam cincang rebus", "amount": 250, "unit": "gram" },
+      { "name": "Kacang panjang (iris tipis, rebus sebentar)", "amount": 150, "unit": "gram" },
+      { "name": "Kelapa parut sangrai", "amount": 100, "unit": "gram" },
+      { "name": "Bumbu basa embak (Bawang goreng, cabai goreng, terasi, jeruk limau)", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Rebus kacang panjang iris sebentar, tiriskan.",
+      "Goreng irisan bawang merah, bawang putih, dan cabai rawit (Basa Embak).",
+      "Campur cincangan ayam, kacang panjang, dan kelapa parut sangrai dalam wadah.",
+      "Masukkan bumbu basa embak, remas-remas perlahan hingga tercampur rata.",
+      "Beri perasan jeruk limau segar sebelum disajikan."
+    ],
+    "tips": "Remas bahan dengan tangan bersarung agar bumbu meresap merata."
+  },
+  {
+    "id": "bal-8",
+    "name": "Sup Kepala Ikan Sanur",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Sup & Kuah",
+    "tags": ["Ikan Kakap", "Kuah Kuning", "Timun Segar"],
+    "difficulty": "Mudah",
+    "cookTime": 35,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 280,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup kepala ikan kakap kuah kunyit asam segar khas Pantai Sanur disajikan dengan timun iris.",
+    "ingredients": [
+      { "name": "Kepala ikan kakap merah segar", "amount": 1, "unit": "potong" },
+      { "name": "Timun (buang biji, iris memanjang)", "amount": 2, "unit": "buah" },
+      { "name": "Bumbu halus (Kunyit, jahe, lengkuas, bawang, cabai)", "amount": 1, "unit": "porsi" },
+      { "name": "Air asam jawa & daun jeruk", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Cuci bersih kepala ikan kakap, lumuri perasan jeruk nipis.",
+      "Rebus air bersama bumbu halus kunyit, daun jeruk, dan asam jawa hingga mendidih.",
+      "Masukkan kepala ikan kakap, masak dengan api sedang hingga ikan matang.",
+      "Masukkan irisan timun beberapa menit sebelum api dimatikan.",
+      "Sajikan kuah asam kuning hangat ini di piring cekung."
+    ],
+    "tips": "Jangan memasak timun terlalu lama agar teksturnya tetap renyah."
+  },
+  {
+    "id": "bal-9",
+    "name": "Bebek Goreng Crispy Ubud",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Bebek", "Goreng Renyah", "Bumbu Rempah"],
+    "difficulty": "Sedang",
+    "cookTime": 60,
+    "prepTime": 30,
+    "servings": 4,
+    "calories": 550,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Bebek ungkep rempah basa genep melimpah yang digoreng hingga garing renyah sampai ke tulang.",
+    "ingredients": [
+      { "name": "Bebek utuh (potong 4 bagian)", "amount": 1, "unit": "ekor" },
+      { "name": "Bumbu basa genep Bali lengkap", "amount": 200, "unit": "gram" },
+      { "name": "Air kelapa untuk mengungkep", "amount": 700, "unit": "ml" },
+      { "name": "Minyak goreng melimpah", "amount": 1000, "unit": "ml" },
+      { "name": "Sambal matah & sambal terasi", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Ungkep bebek bersama bumbu basa genep dan air kelapa dengan api kecil selama 1 jam hingga empuk.",
+      "Tiriskan bebek ungkep hingga dingin.",
+      "Panaskan minyak banyak dalam wajan deep fryer.",
+      "Goreng bebek dengan api besar hingga kulit luar garing keemasan.",
+      "Sajikan bebek goreng renyah bersama trio sambal Bali."
+    ],
+    "tips": "Air kelapa membantu melunakkan serat daging bebek yang alot."
+  },
+  {
+    "id": "bal-10",
+    "name": "Sate Pusut Lombok",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Barat",
+    "category": "Sate & Bakaran",
+    "tags": ["Sate Daging", "Kelapa Parut", "Pedas"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 340,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sate daging sapi cincang berbumbu kelapa parut santan khas Sasak Lombok yang dibakar gurih.",
+    "ingredients": [
+      { "name": "Daging sapi giling", "amount": 400, "unit": "gram" },
+      { "name": "Kelapa parut muda", "amount": 150, "unit": "gram" },
+      { "name": "Santan kental", "amount": 2, "unit": "sdm" },
+      { "name": "Bumbu halus (Cabai merah, bawang, kencur, terasi Lombok)", "amount": 1, "unit": "porsi" },
+      { "name": "Tusuk sate bambu lebar", "amount": 10, "unit": "batang" }
+    ],
+    "steps": [
+      "Campur daging giling, kelapa parut, santan, dan bumbu halus hingga rata.",
+      "Kepalkan adonan memanjang mengapit tusukan sate bambu.",
+      "Panggang sate pusut di atas bara api arang.",
+      "Olesi sesekali dengan sisa santan dan minyak.",
+      "Bakar hingga keemasan dan matang harum."
+    ],
+    "tips": "Kelapa parut muda memberi rasa gurih manis alami saat terbakar arang."
+  },
+  {
+    "id": "bal-11",
+    "name": "Jagung Catemak NTT",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Timur",
+    "category": "Sup & Kuah",
+    "tags": ["Jagung", "Kacang Hijau", "Sup Sehat"],
+    "difficulty": "Mudah",
+    "cookTime": 40,
+    "prepTime": 15,
+    "servings": 4,
+    "calories": 220,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup jagung pipil tradisional berpadu kacang hijau, kacang tanah, dan daun kelor yang sehat.",
+    "ingredients": [
+      { "name": "Jagung manis pipil", "amount": 250, "unit": "gram" },
+      { "name": "Kacang hijau (rendam air)", "amount": 100, "unit": "gram" },
+      { "name": "Kacang tanah", "amount": 50, "unit": "gram" },
+      { "name": "Daun kelor / bayam segar", "amount": 1, "unit": "genggam" },
+      { "name": "Bawang merah iris & garam", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus kacang hijau dan kacang tanah hingga empuk.",
+      "Masukkan jagung pipil manis dan irisan bawang merah ke dalam kuah rebusan.",
+      "Masak hingga seluruh biji-bijian empuk matang.",
+      "Masukkan daun kelor dan garam secukupnya menjelang diangkat.",
+      "Sajikan hangat dalam mangkuk."
+    ],
+    "tips": "Daun kelor dimasukkan paling akhir agar vitaminnya tidak hilang."
+  },
+  {
+    "id": "bal-12",
+    "name": "Tum Ayam khas Bali",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Ayam Cincang", "Pepes Bali", "Basa Genep"],
+    "difficulty": "Mudah",
+    "cookTime": 45,
+    "prepTime": 20,
+    "servings": 5,
+    "calories": 290,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Pepes daging ayam cincang berbumbu basa genep dan santan yang dibungkus tum daun pisang.",
+    "ingredients": [
+      { "name": "Daging ayam cincang", "amount": 400, "unit": "gram" },
+      { "name": "Santan kental", "amount": 100, "unit": "ml" },
+      { "name": "Bumbu basa genep lengkap", "amount": 3, "unit": "sdm" },
+      { "name": "Daun salam & irisan cabai rawit", "amount": 5, "unit": "lembar" },
+      { "name": "Daun pisang pembungkus", "amount": 5, "unit": "lembar" }
+    ],
+    "steps": [
+      "Campur daging ayam cincang bersama bumbu basa genep dan santan kental.",
+      "Ambil selembar daun pisang, beri potong daun salam di dasarnya.",
+      "Sendokkan adonan ayam bumbu di atasnya.",
+      "Bungkus melipat bentuk tum (kantung tegak), semat dengan lidi.",
+      "Kukus selama 35-40 menit hingga matang beraroma harum."
+    ],
+    "tips": "Gunakan daun pisang yang disemat tegak agar kuah santan di dalam tum tidak bocor."
+  },
+  {
+    "id": "bal-13",
+    "name": "Sambal Matah Bali Asli",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Sambal Mentah", "Miyak Kelapa", "Serai"],
+    "difficulty": "Mudah",
+    "cookTime": 10,
+    "prepTime": 10,
+    "servings": 4,
+    "calories": 120,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sambal mentah iris khas Bali dari racikan bawang merah, serai, cabai rawit, dan siraman minyak kelapa panas.",
+    "ingredients": [
+      { "name": "Bawang merah (iris halus)", "amount": 15, "unit": "siung" },
+      { "name": "Cabai rawit merah (iris halus)", "amount": 10, "unit": "buah" },
+      { "name": "Batang serai bagian putih (iris halus)", "amount": 3, "unit": "batang" },
+      { "name": "Daun jeruk purut (buang tulang, iris halus)", "amount": 4, "unit": "lembar" },
+      { "name": "Terasi bakar, perasan jeruk limau, & minyak kelapa panas", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Campurkan irisan bawang merah, cabai rawit, serai, dan daun jeruk dalam wadah.",
+      "Tambahkan terasi bakar hancur, garam, dan sedikit gula.",
+      "Remas-remas perlahan menggunakan tangan bersih agar aroma keluar.",
+      "Siram dengan minyak kelapa yang benar-benar panas membara.",
+      "Beri perasan jeruk limau segar dan aduk rata."
+    ],
+    "tips": "Iris serai sangat tipis agar tidak terasa alot saat dikunyah."
+  },
+  {
+    "id": "bal-14",
+    "name": "Be Pasih Mesanthan (Ikan Santan)",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Ikan Laut", "Kuah Santan", "Rempah Bali"],
+    "difficulty": "Sedang",
+    "cookTime": 35,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 380,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=1000",
+    "description": "Ikan laut segar yang dimasak kuah santan berbumbu rempah lengkap khas pesisir Bali.",
+    "ingredients": [
+      { "name": "Ikan tongkol / kakap segar", "amount": 500, "unit": "gram" },
+      { "name": "Santan encer & santan kental", "amount": 600, "unit": "ml" },
+      { "name": "Bumbu basa genep halus", "amount": 2, "unit": "sdm" },
+      { "name": "Belimbing wulung / asam jawa", "amount": 3, "unit": "buah" },
+      { "name": "Daun ruku-ruku / kemangi", "amount": 1, "unit": "genggam" }
+    ],
+    "steps": [
+      "Goreng ikan setengah matang, tiriskan.",
+      "Tumis bumbu basa genep hingga harum berminyak.",
+      "Tuangkan santan encer dan masukkan belimbing wulung.",
+      "Masukkan ikan goreng, kecilkan api hingga kuah meresap.",
+      "Tuang santan kental dan daun kemangi sebelum diangkat."
+    ],
+    "tips": "Menggoreng ikan terlebih dahulu mencegah ikan hancur saat dimasak dalam santan."
+  },
+  {
+    "id": "bal-15",
+    "name": "Ares Pohon Pisang Lombok",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Barat",
+    "category": "Sup & Kuah",
+    "tags": ["Batang Pisang", "Kuah Santan", "Daging Tulang"],
+    "difficulty": "Sedang",
+    "cookTime": 50,
+    "prepTime": 30,
+    "servings": 4,
+    "calories": 240,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup batang pisang muda (ares) berkuah santan gurih berkaldu daging khas acara adat Sasak.",
+    "ingredients": [
+      { "name": "Batang pisang kepok muda (ares) iris tipis", "amount": 300, "unit": "gram" },
+      { "name": "Tulang ayam / daging sapi", "amount": 250, "unit": "gram" },
+      { "name": "Santan kelapa encer", "amount": 800, "unit": "ml" },
+      { "name": "Bumbu halus (Bawang, kunyit, jahe, kencur, ketumbar)", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Remas irisan ares pisang dengan garam hingga layu dan getahnya keluar, cuci bersih.",
+      "Rebus tulang daging hingga menghasilkan kaldu gurih.",
+      "Tumis bumbu halus hingga harum, masukkan ke air kaldu.",
+      "Masukkan irisan ares pisang muda dan santan encer.",
+      "Masak hingga batang pisang empuk dan meresap bumbu."
+    ],
+    "tips": "Gunakan hanya batang pisang kepok atau pisang klutuk muda agar tidak pahit."
+  },
+  {
+    "id": "bal-16",
+    "name": "Kolo (Nasi Bambu NTT)",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Timur",
+    "category": "Makanan Utama",
+    "tags": ["Bakar Bambu", "Beras Rempah", "Tradisional"],
+    "difficulty": "Sulit",
+    "cookTime": 90,
+    "prepTime": 30,
+    "servings": 6,
+    "calories": 360,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Nasi rempah yang dimasak di dalam selongsong bambu berlapang daun pisang dibakar bara api.",
+    "ingredients": [
+      { "name": "Beras putih (rendam 1 jam)", "amount": 500, "unit": "gram" },
+      { "name": "Bumbu halus rempah (Bawang, kunyit, jahe)", "amount": 1, "unit": "porsi" },
+      { "name": "Santan encer", "amount": 600, "unit": "ml" },
+      { "name": "Batang bambu muda (dilapisi daun pisang di dalam)", "amount": 2, "unit": "batang" }
+    ],
+    "steps": [
+      "Campurkan beras basah dengan bumbu halus rempah dan garam.",
+      "Lapisi bagian dalam selongsong bambu dengan gulungan daun pisang muda.",
+      "Masukkan campuran beras ke dalam bambu hingga 3/4 penuh.",
+      "Tuangkan santan encer secukupnya, tutup ujung bambu dengan gulungan daun.",
+      "Bakar bambu di atas bara api terbuka sambil dibalik bertahap selama 1.5 jam."
+    ],
+    "tips": "Bakar dengan posisi berdiri miring agar kuah santan tidak tumpah."
+  },
+  {
+    "id": "bal-17",
+    "name": "Sate Bulayak Lombok",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Nusa Tenggara Barat",
+    "category": "Sate & Bakaran",
+    "tags": ["Sate Daging", "Lontong Bulayak", "Kuah Kacang Santan"],
+    "difficulty": "Sedang",
+    "cookTime": 40,
+    "prepTime": 25,
+    "servings": 4,
+    "calories": 410,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sate daging sapi yang disajikan bersama lontong bungkus daun enau (bulayak) dan siraman kuah kacang santan.",
+    "ingredients": [
+      { "name": "Daging sapi & jeroan", "amount": 400, "unit": "gram" },
+      { "name": "Bulayak (lontong lilit daun enau/aren)", "amount": 8, "unit": "buah" },
+      { "name": "Kacang tanah sangrai tumbuk halus", "amount": 100, "unit": "gram" },
+      { "name": "Santan encer & bumbu kari pedas", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Tusukkan potongan daging sapi pada tusukan sate, bakar hingga matang.",
+      "Tumis bumbu kari pedas, masukkan kacang tanah halus dan santan encer.",
+      "Masak kuah kacang hingga meletup-letup kental berminyak.",
+      "Buka lilitan daun bulayak di piring saji.",
+      "Sajikan sate sapi di atas bulayak, siram kuah kacang santan pedas."
+    ],
+    "tips": "Cara membuka daun bulayak ditarik berulir melingkar khas Sasak."
+  },
+  {
+    "id": "bal-18",
+    "name": "Rujak Kuah Pindang Bali",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Rujak Buah", "Kuah Ikan", "Pedas Asin"],
+    "difficulty": "Mudah",
+    "cookTime": 15,
+    "prepTime": 15,
+    "servings": 2,
+    "calories": 160,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Irisan buah-buahan segar yang disiram kuah kaldu ikan pindang pedas gurih khas pesisir Bali.",
+    "ingredients": [
+      { "name": "Aneka buah serut/iris (Mangga muda, bengkuang, kedondong)", "amount": 300, "unit": "gram" },
+      { "name": "Air kaldu rebusan ikan pindang tongkol", "amount": 150, "unit": "ml" },
+      { "name": "Cabai rawit merah", "amount": 5, "unit": "buah" },
+      { "name": "Terasi bakar & gula pasir/merah", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Ulek cabai rawit, terasi bakar, dan sedikit garam di atas mangkuk.",
+      "Tuangkan air rebusan kaldu ikan pindang hangat ke dalam ulekan cabai.",
+      "Aduk rata hingga kuah pindang beraroma gurih pedas.",
+      "Tata irisan serut buah-buahan segar di dalam mangkuk.",
+      "Siramkan kuah pindang pedas dan sajikan dingin."
+    ],
+    "tips": "Kaldu ikan pindang harus disaring bersih agar kuahnya tidak amis."
+  },
+  {
+    "id": "bal-19",
+    "name": "Bubur Menggrib Singaraja",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Makanan Utama",
+    "tags": ["Bubur Gurih", "Ayam Suwir", "Kacang Tanah"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 270,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Bubur beras berkuah rempah khas Buleleng disajikan dengan suwiran ayam dan kuah sayur urap.",
+    "ingredients": [
+      { "name": "Beras putih", "amount": 150, "unit": "gram" },
+      { "name": "Santan encer", "amount": 800, "unit": "ml" },
+      { "name": "Suwiran ayam bumbu genep", "amount": 100, "unit": "gram" },
+      { "name": "Sayur urap kangkung & kacang panjang", "amount": 100, "unit": "gram" },
+      { "name": "Kacang tanah goreng garing", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Masak beras bersama santan encer, serai, dan garam hingga menjadi bubur lembut.",
+      "Tata bubur gurih hangat di mangkuk saji.",
+      "Beri toping suwiran ayam bumbu Bali dan sayur urap di atasnya.",
+      "Taburkan kacang tanah goreng renyah.",
+      "Sajikan hangat untuk sarapan."
+    ],
+    "tips": "Aduk bubur secara konstan agar bagian bawahnya tidak mengendap gosong."
+  },
+  {
+    "id": "bal-20",
+    "name": "Es Daluman khas Bali",
+    "region": "Bali & Nusa Tenggara",
+    "province": "Bali",
+    "category": "Dessert & Minuman",
+    "tags": ["Cincau Hijau", "Santan", "Gula Aren"],
+    "difficulty": "Mudah",
+    "cookTime": 15,
+    "prepTime": 15,
+    "servings": 3,
+    "calories": 190,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Es cincau hijau alami (daluman) disiram santan gurih rebus dan sirup gula aren pekat.",
+    "ingredients": [
+      { "name": "Daun daluman / cincau hijau segar", "amount": 20, "unit": "lembar" },
+      { "name": "Air matang hangat", "amount": 400, "unit": "ml" },
+      { "name": "Sirup gula aren pekat", "amount": 100, "unit": "ml" },
+      { "name": "Santan rebus (dengan garam & pandan)", "amount": 300, "unit": "ml" },
+      { "name": "Es batu", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Remas-remas daun daluman bersih dengan air matang hangat hingga membusa dan mengental.",
+      "Saring air perasan ke dalam wadah, biarkan dingin hingga mengeras menjadi jelly cincau alami.",
+      "Sendokkan jeli daluman hijau ke dalam gelas saji.",
+      "Tuangkan sirup gula aren dan santan rebus dingin.",
+      "Beri es batu dan sajikan segera."
+    ],
+    "tips": "Gunakan air matang hangat saat meremas daun agar gel jelly lebih cepat terbentuk."
+  }
+]

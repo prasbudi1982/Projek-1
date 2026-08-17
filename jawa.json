@@ -1,0 +1,617 @@
+[
+  {
+    "id": "jaw-1",
+    "name": "Soto Ayam Lamongan Koya",
+    "region": "Jawa",
+    "province": "Jawa Timur",
+    "category": "Sup & Kuah",
+    "tags": ["Ayam Kampung", "Koya Gurih", "Kuah Kuning"],
+    "difficulty": "Sedang",
+    "cookTime": 60,
+    "prepTime": 20,
+    "servings": 5,
+    "calories": 320,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Soto ayam kuah kuning gurih alami dengan ciri khas taburan bubuk koya gurih kerupuk udang.",
+    "ingredients": [
+      { "name": "Ayam kampung utuh", "amount": 1, "unit": "ekor" },
+      { "name": "Kerupuk udang goreng & bawang putih goreng (Koya)", "amount": 100, "unit": "gram" },
+      { "name": "Air bersih kaldu", "amount": 2500, "unit": "ml" },
+      { "name": "Bumbu halus (Kunyit bakar, kemiri, bawang, serai)", "amount": 1, "unit": "porsi" },
+      { "name": "Pelengkap: Soun, kol iris, telur rebus, jeruk nipis", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus ayam kampung hingga empuk, tiriskan lalu suwir-suwir dagingnya.",
+      "Tumis bumbu halus bersama daun jeruk dan serai hingga wangi matang.",
+      "Masukkan tumisan bumbu ke dalam air rebusan kaldu ayam.",
+      "Tumbuh garing kerupuk udang bersama bawang putih goreng hingga halus (Bubuk Koya).",
+      "Tata soun, kol, dan suwiran ayam di mangkuk, siram kuah panas, dan taburi koya melimpah."
+    ],
+    "tips": "Haluskan koya hingga benar-benar lembut agar menyatu mengentalkan kuah."
+  },
+  {
+    "id": "jaw-2",
+    "name": "Sate Maranggi Purwakarta",
+    "region": "Jawa",
+    "province": "Jawa Barat",
+    "category": "Sate & Bakaran",
+    "tags": ["Daging Sapi", "Ketumbar", "Sambal Tomat"],
+    "difficulty": "Mudah",
+    "cookTime": 25,
+    "prepTime": 40,
+    "servings": 4,
+    "calories": 380,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sate daging sapi yang direnam dalam marinasi ketumbar manis sebelum dibakar arang.",
+    "ingredients": [
+      { "name": "Daging sapi has dalam", "amount": 500, "unit": "gram" },
+      { "name": "Ketumbar sangrai halus & gula merah", "amount": 3, "unit": "sdm" },
+      { "name": "Air asam jawa & kecap manis", "amount": 3, "unit": "sdm" },
+      { "name": "Tomat merah & cabai rawit hijau (Sambal)", "amount": 100, "unit": "gram" }
+    ],
+    "steps": [
+      "Potong daging sapi bentuk dadu 2 cm.",
+      "Lumuri daging dengan marinasi ketumbar, gula merah, kecap, dan asam jawa. Simpan kulkas 45 menit.",
+      "Tusukkan 4 potong daging pada tiap tusuk sate.",
+      "Bakar di atas arang membara sambil dioles sisa bumbu marinasi hingga terkaramelisasi.",
+      "Sajikan panas bersama sambal irisan tomat segar dan cabai rawit."
+    ],
+    "tips": "Bungkus daging dengan daun pepaya selama 20 menit agar sangat empuk saat dibakar."
+  },
+  {
+    "id": "jaw-3",
+    "name": "Gudeg Jogja Komplit",
+    "region": "Jawa",
+    "province": "DI Yogyakarta",
+    "category": "Makanan Utama",
+    "tags": ["Nangka Muda", "Manis", "Areh Kental"],
+    "difficulty": "Sulit",
+    "cookTime": 180,
+    "prepTime": 40,
+    "servings": 6,
+    "calories": 420,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Nangka muda masak perlahan dengan gula palma dan daun jati hingga berwarna cokelat kemerahan manis.",
+    "ingredients": [
+      { "name": "Nangka muda (gori) potong", "amount": 1000, "unit": "gram" },
+      { "name": "Gula merah aren pekat", "amount": 200, "unit": "gram" },
+      { "name": "Santan kental & santan encer", "amount": 1500, "unit": "ml" },
+      { "name": "Daun jati (pewarna alami gudeg)", "amount": 5, "unit": "lembar" },
+      { "name": "Bumbu halus (Bawang, ketumbar, kemiri)", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Alasi dasar kendil/panci tebal dengan daun jati.",
+      "Tata nangka muda, bumbu halus, gula merah aren, dan daun salam di atasnya.",
+      "Tuang santan encer, masak dengan api kecil ditutup rapat selama 3-4 jam.",
+      "Setelah kuah menyusut dan nangka lembut cokelat, tuangkan santan kental (areh).",
+      "Masak terus hingga gudeg mengering dan meresap sempurna."
+    ],
+    "tips": "Gudeg yang diinapkan semalam rasanya akan jauh lebih beralur manis gurih."
+  },
+  {
+    "id": "jaw-4",
+    "name": "Rawon Sapi Surabaya",
+    "region": "Jawa",
+    "province": "Jawa Timur",
+    "category": "Sup & Kuah",
+    "tags": ["Kluwek", "Kuah Hitam", "Daging Sapi"],
+    "difficulty": "Sedang",
+    "cookTime": 90,
+    "prepTime": 25,
+    "servings": 5,
+    "calories": 450,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sup daging sapi khas Jawa Timur berkuah hitam pekat dari rempah kluwek khas beraroma kuat.",
+    "ingredients": [
+      { "name": "Daging sapi sandung lamur", "amount": 600, "unit": "gram" },
+      { "name": "Kluwek hitam tua (ambil isinya)", "amount": 5, "unit": "buah" },
+      { "name": "Serai, daun jeruk, & lengkuas", "amount": 1, "unit": "porsi" },
+      { "name": "Bumbu halus (Bawang, kunyit, ketumbar, cabai)", "amount": 1, "unit": "porsi" },
+      { "name": "Pelengkap: Tauge pendek mentah, sambal terasi, telur asin", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rendam isi kluwek dengan air hangat hingga lembut, haluskan bersama bumbu halus.",
+      "Rebus daging sapi sandung lamur hingga empuk, potong dadu 2 cm.",
+      "Tumis bumbu kluwek halus bersama daun jeruk dan serai hingga matang harum berminyak.",
+      "Masukkan tumisan bumbu ke dalam air rebusan daging sapi.",
+      "Masak berkesinambungan hingga bumbu kluwek meresap hitam ke dalam daging sapi."
+    ],
+    "tips": "Cicipi kluwek sebelum dihaluskan; hindari kluwek yang terasa pahit."
+  },
+  {
+    "id": "jaw-5",
+    "name": "Nasi Liwet Solo Gurih",
+    "region": "Jawa",
+    "province": "Jawa Tengah",
+    "category": "Makanan Utama",
+    "tags": ["Nasi Gurih", "Santan", "Ayam Suwir"],
+    "difficulty": "Sedang",
+    "cookTime": 60,
+    "prepTime": 25,
+    "servings": 5,
+    "calories": 410,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Nasi gurih santan khas Solo disajikan dengan selembar daun pisang, ayam suwir opor, dan kumut areh.",
+    "ingredients": [
+      { "name": "Beras pulen", "amount": 500, "unit": "gram" },
+      { "name": "Santan encer & santan kental", "amount": 100, "unit": "ml" },
+      { "name": "Daun salam & serai", "amount": 3, "unit": "lembar" },
+      { "name": "Suwiran ayam opor putih", "amount": 200, "unit": "gram" },
+      { "name": "Sayur labu siam pedas & telur bacem", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Cook beras bersama santan encer, garam, serai, dan daun salam dalam liwet/rice cooker.",
+      "Masak kuah opor ayam putih hingga daging empuk, lalu suwir-suwir.",
+      "Rebus santan kental dengan garam hingga mengental menjadi siraman kumut areh.",
+      "Pencet nasi gurih di atas pincuk daun pisang.",
+      "Siram sayur labu siam, suwiran ayam, dan sendokkan santan areh di atasnya."
+    ],
+    "tips": "Masak santan areh sambil terus dikocok agar terpisah minyak dan gumpalan gurihnya."
+  },
+  {
+    "id": "jaw-6",
+    "name": "Tahu Sumedang Renyah",
+    "region": "Jawa",
+    "province": "Jawa Barat",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Tahu", "Gorengan", "Renyah"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 10,
+    "servings": 4,
+    "calories": 220,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626509653294-01158238f81e?auto=format&fit=crop&q=80&w=1000",
+    "description": "Tahu goreng khas Sumedang yang renyah berongga di luar namun tetap lembut berkaldu di dalam.",
+    "ingredients": [
+      { "name": "Tahu Sumedang mentah khusus", "amount": 20, "unit": "biji" },
+      { "name": "Air garam & bawang putih perendam", "amount": 300, "unit": "ml" },
+      { "name": "Minyak goreng dalam jumlah melimpah", "amount": 1000, "unit": "ml" },
+      { "name": "Cabai rawit hijau segar", "amount": 15, "unit": "buah" }
+    ],
+    "steps": [
+      "Rendam tahu mentah dalam larutan air garam dan bawang putih selama 15 menit.",
+      "Panaskan minyak goreng hingga benar-benar panas membara.",
+      "Goreng tahu secara bertahap dalam deep fryer / minyak terendam.",
+      "Aduk-aduk perlahan hingga kulit luar tahu mengembang garing keemasan.",
+      "Tiriskan segera dan sajikan dengan gigitan cabai rawit hijau mentah."
+    ],
+    "tips": "Pastikan minyak goreng sangat panas agar tahu mekar berongga maksimal."
+  },
+  {
+    "id": "jaw-7",
+    "name": "Mie Kocok Bandung Kikil",
+    "region": "Jawa",
+    "province": "Jawa Barat",
+    "category": "Mie & Pasta",
+    "tags": ["Mie", "Kikil Sapi", "Kuah Bening"],
+    "difficulty": "Sedang",
+    "cookTime": 50,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 480,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=1000",
+    "description": "Mie kuning pipih dikocok bersama tauge, disiram kuah kaldu sapi kental berisi potongan kikil empuk.",
+    "ingredients": [
+      { "name": "Mie kuning pipih khusus mie kocok", "amount": 400, "unit": "gram" },
+      { "name": "Kikil sapi empuk rebus", "amount": 300, "unit": "gram" },
+      { "name": "Bakso sapi halus", "amount": 10, "unit": "butir" },
+      { "name": "Kaldu kaki sapi pekat", "amount": 1500, "unit": "ml" },
+      { "name": "Tauge, seledri, daun bawang, & perasan jeruk nipis", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Kocok-kocok mie kuning dan tauge dalam saringan celup air panas mendidih hingga layu.",
+      "Rebus kuah kaldu kaki sapi bersama tumisan bawang putih dan merica bubuk.",
+      "Masukkan potongan kikil sapi empuk dan bakso ke dalam kuah.",
+      "Tuang mie dan tauge kocok ke dalam mangkuk.",
+      "Siram kuah panas bersama kikil dan bakso, beri perasan jeruk nipis."
+    ],
+    "tips": "Rebus kikil bersama rempah serai jahe terlebih dahulu agar empuk tidak berbau."
+  },
+  {
+    "id": "jaw-8",
+    "name": "Soto Kudus Kerbau / Ayam",
+    "region": "Jawa",
+    "province": "Jawa Tengah",
+    "category": "Sup & Kuah",
+    "tags": ["Soto", "Mangkuk Kecil", "Bawang Putih Goreng"],
+    "difficulty": "Sedang",
+    "cookTime": 45,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 310,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Soto berkuah bening kekuningan khas Kudus yang disajikan dalam mangkuk mungil dengan taburan bawang putih garing.",
+    "ingredients": [
+      { "name": "Daging kerbau / dada ayam", "amount": 400, "unit": "gram" },
+      { "name": "Bawang putih goreng iris garing", "amount": 4, "unit": "sdm" },
+      { "name": "Air kaldu bening", "amount": 1200, "unit": "ml" },
+      { "name": "Bumbu halus (Bawang, kemiri, jintan, ketumbar)", "amount": 1, "unit": "porsi" },
+      { "name": "Tauge rebus & kecap manis Kudus", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus daging hingga empuk, potong tipis-tipis atau suwir.",
+      "Tumis bumbu halus bersama jintan hingga harum melimpah.",
+      "Tuangkan bumbu ke air rebusan kaldu bening.",
+      "Tata nasi putih, tauge, dan irisan daging di dalam mangkuk mungil.",
+      "Siram kuah soto bening dan taburi bawang putih goreng melimpah."
+    ],
+    "tips": "Kecap manis khas Pati/Kudus memberi sentuhan rasa legit tersendiri."
+  },
+  {
+    "id": "jaw-9",
+    "name": "Rujak Cingur Surabaya",
+    "region": "Jawa",
+    "province": "Jawa Timur",
+    "category": "Makanan Utama",
+    "tags": ["Cingur", "Petis Udang", "Sayur & Buah"],
+    "difficulty": "Sedang",
+    "cookTime": 40,
+    "prepTime": 25,
+    "servings": 3,
+    "calories": 390,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Perpaduan unik cingur (moncong sapi) empuk, sayur rebus, buah segar yang diulak bersama bumbu petis udang khas.",
+    "ingredients": [
+      { "name": "Cingur sapi rebus empuk", "amount": 250, "unit": "gram" },
+      { "name": "Petis udang kualitas super khas Jatim", "amount": 3, "unit": "sdm" },
+      { "name": "Kacang tanah goreng", "amount": 50, "unit": "gram" },
+      { "name": "Pisang batu / klutuk iris", "amount": 3, "unit": "iris" },
+      { "name": "Sayuran rebus (Kangkung, tauge) & buah (Bengkuang, timun)", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Ulek pisang batu, cabai rawit, kacang tanah, garam, dan asam jawa di atas cobek batu.",
+      "Masukkan petis udang super dan sedikit air hangat, ulek hingga adonan bumbu halus kental.",
+      "Potong-potong cingur sapi rebus, lontong, tahu, dan tempe goreng.",
+      "Campurkan potongan bahan dan sayuran rebus ke dalam bumbu petis di atas cobek.",
+      "Adun merata dan sajikan dengan kerupuk bledek."
+    ],
+    "tips": "Irisan pisang batu klutuk berfungsi menetralkan rasa amis petis dan menambah tekstur."
+  },
+  {
+    "id": "jaw-10",
+    "name": "Nasi Uduk Betawi Komplit",
+    "region": "Jawa",
+    "province": "DKI Jakarta",
+    "category": "Makanan Utama",
+    "tags": ["Nasi Gurih", "Santan", "Semur Betawi"],
+    "difficulty": "Mudah",
+    "cookTime": 40,
+    "prepTime": 20,
+    "servings": 5,
+    "calories": 430,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Nasi wangi yang dikukus dengan santan, cengkeh, dan kayu manis khas Betawi.",
+    "ingredients": [
+      { "name": "Beras putih pulen", "amount": 500, "unit": "gram" },
+      { "name": "Santan kelapa sedang", "amount": 600, "unit": "ml" },
+      { "name": "Cengkeh, kayu manis, & serai", "amount": 1, "unit": "porsi" },
+      { "name": "Daun salam & pandan", "amount": 2, "unit": "lembar" },
+      { "name": "Pelengkap: Semur tahu telur, bihun goreng, sambal kacang", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus santan bersama cengkeh, kayu manis, serai, daun salam, dan garam.",
+      "Masukkan beras, masak hingga air santan terserap habis (nasi aron).",
+      "Kukus nasi aron dalam dandang mendidih selama 30 menit hingga matang beraroma wangi.",
+      "Tata nasi uduk di piring bersama semur jengkol/tahu, bihun goreng, dan sambal kacang."
+    ],
+    "tips": "Cengkeh dan kayu manis memberikan aroma harum yang khas pada nasi uduk."
+  },
+  {
+    "id": "jaw-11",
+    "name": "Kerak Telor Betawi Asli",
+    "region": "Jawa",
+    "province": "DKI Jakarta",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Beras Ketan", "Telur Bebek", "Serundeng"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 15,
+    "servings": 2,
+    "calories": 310,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626509653294-01158238f81e?auto=format&fit=crop&q=80&w=1000",
+    "description": "Kuliner tradisional Betawi dari beras ketan, telur bebek, ebi sangrai, dan taburan serundeng kelapa.",
+    "ingredients": [
+      { "name": "Beras ketan putih (rendam semalam)", "amount": 100, "unit": "gram" },
+      { "name": "Telur bebek segar", "amount": 2, "unit": "butir" },
+      { "name": "Serundeng kelapa sangrai bumbu", "amount": 4, "unit": "sdm" },
+      { "name": "Ebi halus sangrai", "amount": 2, "unit": "sdm" },
+      { "name": "Bawang merah goreng untuk taburan", "amount": 2, "unit": "sdm" }
+    ],
+    "steps": [
+      "Panaskan wajan cekung kecil tanpa minyak.",
+      "Masukkan 2 sdm ketan basah dan sedikit air rebusan, masak hingga ketan setengah matang.",
+      "Kocok telur bebek, bumbu halus, serundeng, dan ebi sangrai, tuang di atas ketan.",
+      "Ratakan adonan ke pinggiran wajan, masak hingga bagian bawahnya mengering berkerak.",
+      "Balikkan wajan ke arah api langsung hingga bagian atas kerak telor agak garing kehitaman."
+    ],
+    "tips": "Balikkan wajan di atas bara api terbuka untuk mendapatkan aroma garing sangrai yang khas."
+  },
+  {
+    "id": "jaw-12",
+    "name": "Garang Asem Ayam Kudus",
+    "region": "Jawa",
+    "province": "Jawa Tengah",
+    "category": "Makanan Utama",
+    "tags": ["Ayam Kampung", "Belimbing Wulung", "Kukus Bungkus Daun"],
+    "difficulty": "Sedang",
+    "cookTime": 60,
+    "prepTime": 25,
+    "servings": 4,
+    "calories": 360,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan ayam kampung dengan santan encer, belimbing wulung, dan cabai utuh dibungkus daun pisang kukus.",
+    "ingredients": [
+      { "name": "Ayam kampung (potong kecil)", "amount": 600, "unit": "gram" },
+      { "name": "Belimbing wulung (iris tebal)", "amount": 10, "unit": "buah" },
+      { "name": "Tomat hijau & cabai rawit utuh", "amount": 10, "unit": "buah" },
+      { "name": "Santan encer segar", "amount": 500, "unit": "ml" },
+      { "name": "Daun pisang & plastik pembungkus", "amount": 4, "unit": "lembar" }
+    ],
+    "steps": [
+      "Campurkan potongan ayam bersama irisan belimbing wulung, tomat hijau, dan cabai rawit utuh.",
+      "Siapkan 2 lapis daun pisang pembungkus.",
+      "Masukkan bagian potongan ayam, bahan irisan, dan tuangkan santan secukupnya.",
+      "Bungkus bentuk tum/kantung, semat rapat dengan lidi.",
+      "Kukus dalam dandang panas selama 45-50 menit hingga ayam empuk meresap."
+    ],
+    "tips": "Penggunaan belimbing wulung memberikan rasa asam segar yang tidak bisa digantikan asam jawa."
+  },
+  {
+    "id": "jaw-13",
+    "name": "Batagor Bandung Kuah / Bumbu Kacang",
+    "region": "Jawa",
+    "province": "Jawa Barat",
+    "category": "Cemilan & Olahan Ikan",
+    "tags": ["Bakso Tahu Goreng", "Ikan Tenggiri", "Bumbu Kacang"],
+    "difficulty": "Sedang",
+    "cookTime": 35,
+    "prepTime": 25,
+    "servings": 4,
+    "calories": 410,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1626509653294-01158238f81e?auto=format&fit=crop&q=80&w=1000",
+    "description": "Bakso tahu goreng renyah isi adonan tenggiri gurih disiram bumbu kacang kental dan kecap manis.",
+    "ingredients": [
+      { "name": "Daging ikan tenggiri giling", "amount": 300, "unit": "gram" },
+      { "name": "Tahu putih belah segitiga", "amount": 5, "unit": "buah" },
+      { "name": "Kulit pangsit goreng", "amount": 10, "unit": "lembar" },
+      { "name": "Tepung tapioka & daun bawang", "amount": 150, "unit": "gram" },
+      { "name": "Bumbu kacang kental manis pedas", "amount": 1, "unit": "porsi" }
+    ],
+    "steps": [
+      "Campur ikan giling, tapioka, daun bawang iris, air es, dan garam hingga rata.",
+      "Isikan adonan ke dalam kerukan tengah tahu putih dan ke bagian tengah kulit pangsit.",
+      "Goreng dalam minyak panas sedang hingga matang garing keemasan.",
+      "Potong-potong batagor goreng di atas piring.",
+      "Siram bumbu kacang kental, kecap manis, dan perasan jeruk limau."
+    ],
+    "tips": "Goreng dengan api sedang agar adonan tenggiri matang sempurna hingga ke dalam."
+  },
+  {
+    "id": "jaw-14",
+    "name": "Tahu Tek Surabaya",
+    "region": "Jawa",
+    "province": "Jawa Timur",
+    "category": "Makanan Utama",
+    "tags": ["Tahu Telur", "Petis Udang", "Kacang"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 15,
+    "servings": 2,
+    "calories": 340,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626509653294-01158238f81e?auto=format&fit=crop&q=80&w=1000",
+    "description": "Tahu dadar telur digoreng setengah matang, dipotong gunting, disiram bumbu petis kacang halus.",
+    "ingredients": [
+      { "name": "Tahu putih potong dadu", "amount": 2, "unit": "kotak" },
+      { "name": "Telur ayam kocok", "amount": 2, "unit": "butir" },
+      { "name": "Petis udang kualitas baik khas Jatim", "amount": 2, "unit": "sdm" },
+      { "name": "Kacang tanah goreng & bawang putih", "amount": 50, "unit": "gram" },
+      { "name": "Pelengkap: Lontong, tauge pendek, kerupuk bledek", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Kocok tahu dadu bersama telur dan sedikit garam, goreng dalam minyak hingga garing luar.",
+      "Ulek bawang putih, cabai rawit, kacang tanah, petis udang, dan air matang hingga kental halus.",
+      "Gunting-gunting tahu telur dan lontong di atas piring saji.",
+      "Taburkan tauge pendek mentah di atasnya.",
+      "Siramkan bumbu petis kacang kental dan beri kerupuk."
+    ],
+    "tips": "Menggunting tahu telur saat panas memberikan tekstur permukaan yang menyerap bumbu."
+  },
+  {
+    "id": "jaw-15",
+    "name": "Soto Betawi Daging Santan Susu",
+    "region": "Jawa",
+    "province": "DKI Jakarta",
+    "category": "Sup & Kuah",
+    "tags": ["Daging Sapi", "Santan Susu", "Emping"],
+    "difficulty": "Sedang",
+    "cookTime": 75,
+    "prepTime": 25,
+    "servings": 5,
+    "calories": 520,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=1000",
+    "description": "Soto daging dan jeroan sapi berkuah santan gurih berpadu susu cair beraroma minyak samin.",
+    "ingredients": [
+      { "name": "Daging sapi & paru / babat", "amount": 600, "unit": "gram" },
+      { "name": "Santan encer & susu cair murni", "amount": 1000, "unit": "ml" },
+      { "name": "Minyak samin", "amount": 2, "unit": "sdm" },
+      { "name": "Bumbu halus (Bawang, kemiri, jintan, pala, cengkeh)", "amount": 1, "unit": "porsi" },
+      { "name": "Pelengkap: Tomat iris, emping goreng, acar mentimun", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Rebus daging dan jeroan hingga empuk, tiriskan lalu potong dadu.",
+      "Tumis bumbu halus dengan minyak samin hingga beraroma wangi rempah.",
+      "Tuangkan air kaldu rebusan, santan, dan susu cair segar.",
+      "Aduk perlahan hingga kuah soto mendidih gurih creamy.",
+      "Sajikan dalam mangkuk bersama irisan tomat, emping garing, dan perasan jeruk limau."
+    ],
+    "tips": "Penambahan minyak samin memberikan keharuman otentik warisan soto Betawi."
+  },
+  {
+    "id": "jaw-16",
+    "name": "Empal Gentong Cirebon",
+    "region": "Jawa",
+    "province": "Jawa Barat",
+    "category": "Sup & Kuah",
+    "tags": ["Daging Sapi", "Kuali Tanah", "Kuah Santan"],
+    "difficulty": "Sedang",
+    "cookTime": 80,
+    "prepTime": 25,
+    "servings": 5,
+    "calories": 470,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=1000",
+    "description": "Olahan daging dan usus sapi yang dimasak dalam gentong periuk tanah liat dengan kuah santan kuning.",
+    "ingredients": [
+      { "name": "Daging sapi & jeroan (babat/usus)", "amount": 600, "unit": "gram" },
+      { "name": "Santan kelapa encer", "amount": 1200, "unit": "ml" },
+      { "name": "Bumbu halus empal (Kunyit, bawang, kemiri, kapulaga)", "amount": 1, "unit": "porsi" },
+      { "name": "Bubuk cabai kucai kering (Taburan khas)", "amount": 2, "unit": "sdm" },
+      { "name": "Daun kucai potong", "amount": 3, "unit": "sdm" }
+    ],
+    "steps": [
+      "Rebus daging sapi dan jeroan dalam gentong tanah liat hingga empuk, potong-potong.",
+      "Tumis bumbu halus kuning hingga harum, masukkan ke kuah rebusan daging.",
+      "Tuangkan santan, aduk konstan hingga mendidih dan meresap ke dalam daging.",
+      "Sajikan panas dalam mangkuk.",
+      "Taburi irisan daun kucai segar dan bubuk cabai merah kering."
+    ],
+    "tips": "Memasak menggunakan gentong tanah liat memberikan aroma khas yang lembut alami."
+  },
+  {
+    "id": "jaw-17",
+    "name": "Bakmi Jawa Goreng Tungku",
+    "region": "Jawa",
+    "province": "DI Yogyakarta",
+    "category": "Mie & Pasta",
+    "tags": ["Bakmi Jawa", "Telur Bebek", "Ayam Suwir"],
+    "difficulty": "Mudah",
+    "cookTime": 20,
+    "prepTime": 15,
+    "servings": 2,
+    "calories": 430,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=1000",
+    "description": "Bakmi basah yang ditumis bersama telur bebek, suwiran ayam kampung, dan kekian di atas anglo arang.",
+    "ingredients": [
+      { "name": "Mie kuning basah & bihun", "amount": 250, "unit": "gram" },
+      { "name": "Telur bebek", "amount": 2, "unit": "butir" },
+      { "name": "Suwiran ayam kampung rebus", "amount": 100, "unit": "gram" },
+      { "name": "Bumbu ulek (Bawang putih, kemiri sangrai, ebi, merica)", "amount": 1, "unit": "porsi" },
+      { "name": "Kol, kubis, & daun bawang", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Tumis bumbu ulek dengan sedikit minyak atau minyak ayam hingga sangat harum.",
+      "Orak-arik telur bebek hingga setengah matang.",
+      "Masukkan potongan kol, daun bawang, suwiran ayam, dan mie kuning.",
+      "Bubuhi kecap manis, garam, dan sedikit kaldu ayam.",
+      "Aduk cepat hingga mi terkaramelisasi matang, sajikan bersama acar cabai."
+    ],
+    "tips": "Gunakan telur bebek untuk hasil olahan mi yang lebih gurih dan creamy."
+  },
+  {
+    "id": "jaw-18",
+    "name": "Pecel Madiun Pincuk Daun",
+    "region": "Jawa",
+    "province": "Jawa Timur",
+    "category": "Makanan Utama",
+    "tags": ["Bumbu Kacang", "Sayur Rebus", "Peyek Kacang"],
+    "difficulty": "Mudah",
+    "cookTime": 30,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 290,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=1000",
+    "description": "Aneka rebusan sayur segar disiram bumbu kacang tanah sangrai beraroma daun jeruk khas Madiun.",
+    "ingredients": [
+      { "name": "Sambal pecel Madiun (Kacang sangrai, kencur, daun jeruk, gula merah)", "amount": 200, "unit": "gram" },
+      { "name": "Sayuran rebus (Kangkung, bayam, tauge, kembang turi, daun kenikir)", "amount": 300, "unit": "gram" },
+      { "name": "Kemangi segar & timun pencit", "amount": 1, "unit": "secukupnya" },
+      { "name": "Peyek kacang / rempeyek udang garing", "amount": 4, "unit": "lembar" }
+    ],
+    "steps": [
+      "Seduh sambal pecel Madiun padat dengan air hangat hingga kekentalan pas.",
+      "Rebus masing-masing jenis sayuran secara terpisah agar tingkat kematangan pas.",
+      "Tata nasi putih dan sayuran rebus di atas pincuk daun pisang.",
+      "Siramkan bumbu pecel kental di atas sayuran.",
+      "Lengkapi dengan kemangi, irisan timun, dan peyek kacang renyah."
+    ],
+    "tips": "Daun jeruk dan kencur pada bumbu pecel adalah kunci kesegaran aromanya."
+  },
+  {
+    "id": "jaw-19",
+    "name": "Sate Ponorogo Daging Ayam",
+    "region": "Jawa",
+    "province": "Jawa Timur",
+    "category": "Sate & Bakaran",
+    "tags": ["Sate Ayam", "Potongan Lebar", "Bumbu Kacang Halus"],
+    "difficulty": "Sedang",
+    "cookTime": 40,
+    "prepTime": 30,
+    "servings": 4,
+    "calories": 400,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&q=80&w=1000",
+    "description": "Sate ayam dengan irisan daging fillet pipih memanjang, dimarinasi lalu dibakar dengan bumbu kacang lembut.",
+    "ingredients": [
+      { "name": "Dada ayam fillet (potong memanjang pipih)", "amount": 500, "unit": "gram" },
+      { "name": "Bumbu marinasi (Bawang putih, ketumbar, gula merah)", "amount": 1, "unit": "porsi" },
+      { "name": "Bumbu kacang Ponorogo (sangat halus tanpa minyak)", "amount": 200, "unit": "gram" },
+      { "name": "Kecap manis & jeruk nipis", "amount": 2, "unit": "sdm" }
+    ],
+    "steps": [
+      "Pipihkan daging ayam fillet, marinasi dalam bumbu halus selama 30 menit.",
+      "Tusuk daging ayam memanjang pada tusukan sate khusus yang panjang.",
+      "Bakar di atas pemanggang arang hingga daging ayam matang garing.",
+      "Campur bumbu kacang halus dengan air hangat dan kecap manis.",
+      "Celupkan atau siramkan bumbu kacang halus di atas sate Ponorogo."
+    ],
+    "tips": "Potongan daging yang pipih membuat sate matang merata tanpa bagian yang gosong."
+  },
+  {
+    "id": "jaw-20",
+    "name": "Es Dawet Ayu Banjarnegara",
+    "region": "Jawa",
+    "province": "Jawa Tengah",
+    "category": "Dessert & Minuman",
+    "tags": ["Cendol Pandan", "Santan Gurih", "Gula Aren"],
+    "difficulty": "Mudah",
+    "cookTime": 25,
+    "prepTime": 20,
+    "servings": 4,
+    "calories": 210,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Minuman es dawet cendol tepung beras pandan kenyal disiram gula aren cair dan santan gurih.",
+    "ingredients": [
+      { "name": "Tepung beras & tepung sagu (Adonan dawet)", "amount": 150, "unit": "gram" },
+      { "name": "Air perasan daun pandan suji", "amount": 400, "unit": "ml" },
+      { "name": "Gula aren cair asli", "amount": 150, "unit": "ml" },
+      { "name": "Santan rebus gurih (dengan garam & pandan)", "amount": 500, "unit": "ml" },
+      { "name": "Es batu kepruk & potongan nangka matang", "amount": 1, "unit": "secukupnya" }
+    ],
+    "steps": [
+      "Masak adonan tepung beras, sagu, dan air pandan hingga mengental meletup matang.",
+      "Tekan adonan panas di atas acuan cetakan dawet ke dalam wadah air es.",
+      "Rebus gula aren dengan sedikit air hingga menjadi sirup pekat kental.",
+      "Tata sirup gula aren, dawet cendol hijau, dan potongan nangka di gelas.",
+      "Tuangkan santan gurih dingin dan beri es batu."
+    ],
+    "tips": "Gunakan air es saat mencetak dawet agar adonan langsung mengental kenyal."
+  }
+]
